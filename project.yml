@@ -2,7 +2,7 @@
 settings:
   name: Cloud Manager
   platform: cloud
-  search: cloud-manager-relnotes,cloud-manager-setup-admin,cloud-manager-cloud-volumes-ontap,cloud-manager-ontap-onprem,cloud-manager-azure-netapp-files,cloud-manager-fsx-ontap,cloud-manager-cloud-volumes-service-aws,cloud-manager-cloud-volumes-service-gcp,cloud-manager-kubernetes,cloud-manager-app-template,cloud-manager-backup-restore,cloud-manager-snapcenter,cloud-manager-sync,cloud-manager-data-sense,cloud-manager-tiering,cloud-manager-ransomware,cloud-manager-replication,cloud-manager-monitoring,cloud-manager-file-cache,cloud-manager-compute,cloud-manager-automation,cloud-volumes-ontap-relnotes
+  search: cloud-manager-relnotes,cloud-manager-setup-admin,cloud-manager-cloud-volumes-ontap,cloud-manager-ontap-onprem,cloud-manager-azure-netapp-files,cloud-manager-fsx-ontap,cloud-manager-cloud-volumes-service-aws,cloud-manager-cloud-volumes-service-gcp,cloud-manager-kubernetes,cloud-manager-app-template,cloud-manager-backup-restore,cloud-manager-snapcenter,cloud-manager-sync,cloud-manager-data-sense,cloud-manager-tiering,cloud-manager-ransomware,cloud-manager-replication,cloud-manager-monitoring,cloud-manager-file-cache,cloud-manager-compute,cloud-manager-automation,cloud-volumes-ontap-relnotes,cloud-manager-storagegrid,cloud-manager-e-series
   internal:
     pdf_enabled: true
   prod:
@@ -122,6 +122,11 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-compute/index.html
     summary: 深入瞭解雲端運算支出、並找出可能的節約效益。
     tags: all, compute, aws
+  - title: E系列系統
+    icon: "./media/icon-onprem.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
+    summary: 探索E系列系統、完整檢視混合式多雲端的資料。
+    tags: all, storage
   - title: 全域檔案快取
     icon: "./media/icon-cache.png"
     url: https://docs.netapp.com/us-en/cloud-manager-file-cache/index.html
@@ -157,3 +162,8 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-snapcenter/index.html
     summary: 在雲端提供應用程式一致的資料保護。
     tags: all, protection
+  - title: StorageGRID
+    icon: "./media/icon-onprem.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html
+    summary: 探索StorageGRID 及管理您的系統。
+    tags: all, storage
