@@ -71,7 +71,7 @@ product-family:
     icon: "./media/icon-api.png"
     url: https://docs.netapp.com/us-en/cloud-manager-automation/index.html
     summary: 以程式設計方式管理雲端型資源。
-    tags: all, code
+    tags: all, code, automation
   - title: 應用程式範本
     icon: "./media/icon-app-template.png"
     url: https://docs.netapp.com/us-en/cloud-manager-app-template/index.html
