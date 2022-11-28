@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
-  <block id="801137ecb911e137717f3efd696e31cd" category="summary">Cloud Manager為IT專家和雲端架構設計師提供集中化的控制面板、可在混合雲環境中管理、監控及自動化資料。請依產品區域瀏覽文件、或使用上方的搜尋功能、在Cloud Manager文件的任何位置尋找內容。</block>
-  <block id="b3a853d57fdef5749cc6f40650ebaac6" category="doc">Cloud Manager文件</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步驟</block>
-  <block id="0046efb3377274ff3215d4b30269809e" category="list-text">在Cloud Manager主控台右上角、按一下「說明」圖示、然後選取*「支援」*。</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">「說明」功能表的快照、其中「支援」是第一個列出的選項</block>
   <block id="868d9aa88f16ea923af1d15eac5d2647" category="paragraph"><block ref="868d9aa88f16ea923af1d15eac5d2647" category="inline-image-macro-rx" type="image"></block></block>
   <block id="d17d6b5dafebab6b7659da8850737e70" category="list-text">按一下「*」「nss管理」&gt;「新增nssAccount」*。</block>
@@ -11,49 +8,26 @@
   <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">NetApp使用Microsoft Azure Active Directory做為身分識別供應商、提供專為支援與授權所設計的驗證服務。</block>
   <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">在登入頁面上、提供您的NetApp支援網站註冊電子郵件地址和密碼、以執行驗證程序。</block>
   <block id="07d41912a6ab6b97216f8cf89e93205c" category="doc">自我支援</block>
-  <block id="51719eefc68685ac0e2a11057a44b8be" category="paragraph">NetApp以多種方式支援Cloud Manager及其雲端服務。我們全年無休提供豐富的免費自助支援選項、例如知識庫（KB）文章和社群論壇。您的支援註冊包括透過網路票證提供遠端技術支援。</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">這些選項可供免費使用、一天24小時、一週7天：</block>
   <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">知識庫</block>
   <block id="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="list-text"><block ref="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="inline-link-rx"></block></block>
-  <block id="76b571fb5edea1c1994fa0ff01f7b1e2" category="paragraph">請搜尋Cloud Manager知識庫、找出有助於疑難排解問題的文章。</block>
   <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">社群</block>
   <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
-  <block id="7f3490343cad8dc3bfdb72dd5d957e8d" category="paragraph">加入Cloud Manager社群、追蹤後續討論或建立新討論。</block>
   <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">文件</block>
-  <block id="3c313458d6e15dd2c4336e47118d0a8f" category="paragraph">您目前正在檢視的Cloud Manager文件。</block>
   <block id="80b1b0d2b1ebf2b3cba2d25759801afd" category="list-text">mailto：ng-cloudmanager-feedback@netapp.com [意見反應電子郵件]</block>
-  <block id="bff60abbc46aceed0f73a3a4f6cfb123" category="paragraph">我們非常重視您的意見。提交意見反應、協助我們改善Cloud Manager。</block>
   <block id="0659d428df833a806e29e65e632d380a" category="section-title">NetApp支援</block>
-  <block id="6c08c57e382a25a778455184cd9b1a4a" category="list-text">在Cloud Manager中、按一下*「說明」&gt;「支援」*。</block>
   <block id="f5052c65917d7341726235d4d4941461" category="list-text">在「Technical Support（技術支援）」下選擇可用的選項之一：</block>
-  <block id="7ff191df90fac0fa94ab5c2b5101a5e9" category="sidebar">所有Cloud Manager文件</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
-  <block id="6beccc67ff905f7da0b29dece26b0485" category="sidebar">Amazon Web Services</block>
-  <block id="caea8340e2d186a540518d08602aa065" category="sidebar">自動化</block>
-  <block id="05ccfbea6601dcca671775f24a6b14d3" category="sidebar">程式碼範例</block>
   <block id="a623a8d0366bf079411aa30be45b2d10" category="sidebar">運算</block>
   <block id="8e5adb4723e04a1f9bf2ea7df2c5e684" category="sidebar">連接器與帳戶</block>
-  <block id="981bffcb165038c7fa06d58ef1c4cdaf" category="sidebar">資料治理</block>
-  <block id="7e7397a7b79323762c61941fc0e6b5f9" category="sidebar">資料保護</block>
-  <block id="dc21b082b0947a93d387b8c7e8f89ee5" category="sidebar">資料儲存</block>
-  <block id="396928510e06818ef017921022cce2af" category="sidebar">資料分層</block>
-  <block id="4877a4fced94635d9abbb2464ddef37a" category="sidebar">檔案共用</block>
-  <block id="56ef2682280ac110060b881925a87b80" category="sidebar">Google Cloud</block>
-  <block id="30136395f01879792198317c11831ea4" category="sidebar">Kubernetes</block>
-  <block id="1668ca1bd914c1d847f23b491319ac91" category="sidebar">Microsoft Azure</block>
-  <block id="423e555c5ec3885f2bb5d9d2d6627f63" category="sidebar">監控</block>
   <block id="30b77b282030e8985671bcc89e3e4d74" category="sidebar">設定與管理</block>
-  <block id="ebf83dc6f9abc581c0cbcf7c286c6bed" category="sidebar">瞭解如何開始使用Cloud Manager、以及管理Connectors、帳戶等。</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">版本資訊</block>
-  <block id="72f9d32a77debe2f3f6cfa4485880344" category="sidebar">瞭解Cloud Manager的最新功能。</block>
-  <block id="dab2edf9eaac3950e92c281ce358af01" category="sidebar">《數位顧問》 Active IQ</block>
   <block id="92086381b2a7391ff015bfa58d13afc9" category="sidebar">可據以行動的情報、達到最佳的儲存健全狀況。</block>
   <block id="18cf072964a583150dd247485ba75b92" category="sidebar">Amazon FSX for ONTAP Sf</block>
   <block id="977f48c0ad107bab5b00e6582e3d62b5" category="sidebar">將ONTAP 完整的功能用作由AWS管理的原生服務。</block>
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">以程式設計方式管理雲端型資源。</block>
   <block id="ca9106b8b82ff55b6fdce530ccb952a7" category="sidebar">應用程式範本</block>
-  <block id="4d3fcb70d2abff3ff5e4d5fac2556a44" category="sidebar">在Cloud Manager中自動化行動、以加速資源配置並免除手動工作。</block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="sidebar">Azure NetApp Files</block>
   <block id="7f0915fd413dcc718e35e39d644d92ac" category="sidebar">為核心業務應用程式提供高效能檔案儲存服務。</block>
   <block id="dad57e95fc9a5390302ad830888cbdb9" category="sidebar">雲端備份</block>
@@ -75,25 +49,18 @@
   <block id="20fa9c1bc12bf7468e5d341fc1e54b7f" category="sidebar">為分散的工作團隊提供即時的全域檔案共用功能。</block>
   <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Kubernetes叢集</block>
   <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">在混合雲中、對Kubernetes叢集進行進階資料管理。</block>
-  <block id="cc39e0b89a2a92cf04dc87d6a61428d5" category="sidebar">深入瞭解Cloud Volumes ONTAP VMware的健全狀況與效能。</block>
   <block id="d0f1687c68ee0f0d9bac765716d18923" category="sidebar">內部 ONTAP 部署的叢集</block>
   <block id="b7a3a3d6e3a875d91556459f1c471d33" category="sidebar">在AFF 混合雲上管理NetApp的功能與FAS 功能。</block>
   <block id="950604af87c30e09716e6d097eb491db" category="sidebar">勒索軟體保護</block>
   <block id="0a2beb44f980a6220ce4afa12b490e4f" category="sidebar">評估您的資料對網路攻擊的應變能力。</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">複寫</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">在儲存系統之間複寫資料、以支援備份與災難恢復。</block>
-  <block id="fed6fa1f1b675c268f8b78258e2545a7" category="sidebar">支援服務SnapCenter</block>
-  <block id="f0f6cb7dbb43bbd1b2c2edeb9f51c21b" category="sidebar">在雲端提供應用程式一致的資料保護。</block>
   <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">除了上述的自我支援選項、您也可以在啟動支援之後、與NetApp支援專家合作解決任何問題。</block>
   <block id="e2a733504c4088b809813bbb35a3ddfd" category="inline-link-macro">瞭解如何註冊以取得支援</block>
-  <block id="09651e14b46d7e8697d32de90d0deacb" category="paragraph">若要使用*建立案例*功能、您必須先執行Cloud Manager帳戶ID序號的一次性登錄（即960xxxx）。 <block ref="3349e4b3d05f646f2f1421bee7c2ad26" category="inline-link-macro-rx"></block>。</block>
   <block id="383133cb6f7207b1c65c3ace94aa5e95" category="list-text">如果您想與電話上的其他人通話、請按一下*「呼叫我們*」。您將會被導向netapp.com上的頁面、其中列出您可以撥打的電話號碼。</block>
   <block id="bf5bc6ab0f95f17f4e98c9d766b8c11d" category="list-text">按一下*建立案例*、與NetApp支援專家一起開啟問題單：</block>
   <block id="b53e0a259f4a0c8e7da80d6c94e26c84" category="list-text">*《支援帳戶*》：選取與開立支援案例的人員相關的適用的NSS帳戶。NetApp 支援網站除了以下提供的其他電子郵件之外、此人將是NetApp聯絡的主要聯絡人。</block>
-  <block id="ec65cc87efda54741062da1fce99ff76" category="paragraph">如果您看不到您的NSS帳戶、可以瀏覽至Cloud Manager「Support（支援）」區段中的「* nssn* Management（* nssnss管理*）」索引標籤、將其新增至該處。</block>
-  <block id="b3144caf7d928b7954447c757b3ed77b" category="list-text">*服務*：選取問題相關的服務。例如、Cloud Manager在特定於服務工作流程或功能的技術支援問題時。</block>
   <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">*工作環境*：如果適用於儲存設備、請選取* Cloud Volumes ONTAP 《*》或*《內部部署*》、然後選取相關的工作環境。</block>
-  <block id="1e38219c106fb9d07d173c027b8911c7" category="paragraph">工作環境清單位於您在服務的最上層橫幅中所選的Cloud Manager帳戶、工作區和Connector範圍內。</block>
   <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*案例優先順序*：選擇案例的優先順序、可以是低、中、高或嚴重。</block>
   <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">若要深入瞭解這些優先順序、請將滑鼠游標暫留在欄位名稱旁的資訊圖示上。</block>
   <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*問題說明*：提供問題的詳細說明、包括任何適用的錯誤訊息或您執行的疑難排解步驟。</block>
@@ -104,7 +71,6 @@
   <block id="04e15da1deae9568b4dcda64fbb0c8d5" category="paragraph">如需支援案例的記錄、請按一下*設定&gt;時間軸*、然後尋找名為「create support case」的行動。 最右側的按鈕可讓您展開動作以查看詳細資料。</block>
   <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">嘗試建立案例時、可能會遇到下列錯誤訊息：</block>
   <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"您無權針對所選服務建立案例"</block>
-  <block id="148f13242c3e296dc276821cdc574921" category="paragraph">此錯誤可能表示、與此相關聯的NSS帳戶及記錄公司與Cloud Manager帳戶序號的記錄公司不同（例如960xxxx)或工作環境序號。您可以在「建立案例*」表單頂端查看您的NSS帳戶清單、以找出最適合的項目、或使用下列其中一個選項尋求協助：</block>
   <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">使用產品內對談</block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link"></block>
   <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">請至提交非技術案例<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
@@ -112,49 +78,34 @@
   <block id="25e0ccd395342edee81a87cd62b00061" category="sidebar">探索E系列系統、完整檢視混合式多雲端的資料。</block>
   <block id="392d70ca39f31f10bd637936769788df" category="sidebar">StorageGRID</block>
   <block id="501e54577b674a9bc815f3f3bd429b90" category="sidebar">探索StorageGRID 及管理您的系統。</block>
-  <block id="d1a9582568e79d0f7df77bf8db0c78c2" category="paragraph">在您透過NetApp技術支援開啟支援案例之前、您必須先在NetApp 支援網站 Cloud Manager中新增一個支援（NSS）帳戶、然後註冊以取得支援。</block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">支援登錄總覽</block>
   <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">有兩種登錄形式可啟動支援服務權利：</block>
-  <block id="e84e72c56ec69ee05b16bee368f2f4cb" category="list-text">註冊Cloud Manager帳戶ID支援訂閱（您的20位數960xxxxxxx序號位於Cloud Manager的「Support Resources（支援資源）」頁面）。</block>
-  <block id="86d34aa6dedf863c0a4ff5e293c1ec79" category="paragraph">這是Cloud Manager中任何服務的單一支援訂閱ID。每個Cloud Manager帳戶層級的支援訂閱都必須註冊。</block>
   <block id="55ff64467cd508971910145ab5d6b3b8" category="list-text">在Cloud Volumes ONTAP 雲端供應商的市場中註冊與訂閱相關的支援服務序號（這些序號為20位數909601xxxxxxxx序號）。</block>
-  <block id="dbea8abd63832b9ce98fbfac8dbb8c15" category="paragraph">這些序號通常稱為「_PAYGO」序號、並在Cloud Volumes ONTAP 部署時由Cloud Manager產生。</block>
-  <block id="a9e835b028baaab9d917fafc714e25a5" category="paragraph">註冊這兩種序號類型、就能開啟支援服務單、自動產生個案及Active IQ 進行支援。</block>
   <block id="e5646198d2e01aab2cec9ef946f9c53a" category="list-text">現有客戶或合作夥伴</block>
   <block id="4e6af37fb81d50483d832d4de6e2b26a" category="inline-xref">瞭解如何新增您的NSS帳戶</block>
   <block id="1c91f3adc957364cb01d33e100ee1ea3" category="list-text">NetApp新推出</block>
-  <block id="bcce750f51c727121c6fa1fb7d2c91f8" category="paragraph">如果您是NetApp的新客戶、您必須在NetApp的支援註冊網站上完成Cloud Manager帳戶ID序號的一次性註冊。完成此註冊並建立新的NSS帳戶之後、您就可以在Cloud Manager中使用此帳戶自動註冊、以便繼續進行。</block>
-  <block id="f6c4c1e9625a13b1b4d06a8f53f2ccfd" category="section-title">將一個新增至Cloud Manager的NSS</block>
-  <block id="0bfa39d13bc65474a81520ace129413d" category="paragraph">這些行動可讓Cloud Manager使用您的NSS帳戶進行授權下載、軟體升級驗證、以及未來的支援註冊等作業。</block>
   <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">請注意下列事項：</block>
   <block id="0f0a0d646a020cf3a65ce82ada4cfb01" category="list-text">帳戶必須是客戶層級的帳戶（不是來賓帳戶或臨時帳戶）。</block>
   <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">三個橫點的圖示</block>
   <block id="ff67299785d475e87002751aa6ab5eb8" category="list-text">成功登入後、NetApp會儲存NSS.使用者名稱。這是系統產生的ID、會對應至您的電子郵件。在「* nssn*管理*」頁面上、您可以從顯示電子郵件 <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> 功能表。</block>
   <block id="505da61efe6bebebbaf092da18f64613" category="list-text">如果您需要重新整理登入認證憑證權杖、也可以在中使用*更新認證*選項 <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> 功能表。使用此選項會提示您重新登入。</block>
-  <block id="59dd2a274c2c6a3cc5b3dce08109019d" category="list-text">從「Support Registration（支援登錄）」頁面找到Cloud Manager帳戶ID序號。</block>
   <block id="ef5e63bb6b6827440a13cc2ec7e9cf56" category="paragraph"><block ref="ef5e63bb6b6827440a13cc2ec7e9cf56" category="inline-image-macro-rx" type="image"></block></block>
   <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">NetApp的支援註冊網站</block>
   <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">瀏覽至<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> 並選擇*我不是NetApp註冊客戶*。</block>
   <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">填寫必填欄位（紅色星號）。</block>
   <block id="1128fc8d5ec64880f4d49337ed798d31" category="list-text">在*產品系列*欄位中、選取* Cloud Manager*、然後選取適用的帳單供應商。</block>
-  <block id="1192dec4cc2b923397748a651cef178f" category="list-text">複製上述步驟2的Cloud Manager帳戶序號、完成安全性檢查、然後確認您已閱讀NetApp的全球資料隱私權政策。</block>
   <block id="3a24c87c9971d2011b4df223718f84b4" category="paragraph">系統會立即將電子郵件傳送至提供的信箱、以完成此安全交易。如果驗證電子郵件在幾分鐘內未送達、請務必檢查您的垃圾郵件資料夾。</block>
   <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">確認電子郵件中的行動。</block>
   <block id="201080500e946070a2e4873042507c77" category="paragraph">確認將您的申請提交給NetApp、並建議您建立NetApp 支援網站 一個申請表。</block>
   <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">《使用者登錄表》NetApp 支援網站</block>
   <block id="d61c9f72493817776f392db42ac446a2" category="list-text">請務必選擇適當的使用者層級、通常為* NetApp客戶/終端使用者*。</block>
-  <block id="d6cb31c22f8f843a781cccec33157281" category="list-text">請務必將上述使用的Cloud Manager帳戶序號（960xxxx）複製到序號欄位。這將加速帳戶處理。</block>
   <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">在此過程中、NetApp應與您聯絡。這是新使用者的一次性就職練習。</block>
   <block id="98bc603dcb6d5a57d540b13b541fa41a" category="paragraph">您的註冊方式取決於您是新客戶或現有客戶或合作夥伴。</block>
-  <block id="60791d56f45a3f9f1287510b65d323df" category="paragraph">身為現有的NetApp客戶或合作夥伴、您可以使用NetApp 支援網站 您的畫面（NSS）SSO帳戶執行上述登錄。在「支援儀表板」中、Cloud Manager提供一個* nssn*管理*頁面、您可以在其中新增您的nss.新增您的NSS帳戶後、Cloud Manager會自動為您註冊這些序號。</block>
-  <block id="32e82838df6d3ab4de32d996ebbe98cd" category="paragraph"><block ref="27c44e31a17502f2e9a25a83f2f37696" category="inline-xref-macro-rx"></block>。</block>
   <block id="00fc9d0c515c69ea2c368521453d982e" category="inline-xref">瞭解如何向NetApp註冊</block>
   <block id="97454ce87333f7ebd50ee38b8126fb39" category="paragraph"><block ref="37544f11913357c4e8c8a4ec607ae247" category="inline-xref-macro-rx"></block>。</block>
   <block id="ad56c7289bc13dcf4f78c285f7f03878" category="section-title">向NetApp註冊</block>
   <block id="f1bac79c2c71fbd93863b9fbd718094c" category="paragraph">您如何註冊NetApp支援取決於您是否已擁有NetApp 支援網站 一個NetApp（NSS）帳戶。</block>
   <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">現有的客戶、擁有一個新服務客戶帳戶</block>
-  <block id="d4b6092976537c153c496a428098980c" category="paragraph">如果您是擁有NSS帳戶的NetApp客戶、只需透過Cloud Manager註冊即可獲得支援。</block>
-  <block id="c9d4df035d54072bb393bd27f6769cc7" category="list-text">如果您尚未這麼做、請將您的NSS帳戶新增至Cloud Manager。</block>
   <block id="819aff12752b7e6a1828e755c7664de7" category="list-text">在*資源*頁面上、按一下*註冊以取得支援*。</block>
   <block id="e8a3d9970b8fc1d92caaf33d9e116bd4" category="inline-image-macro">顯示帳戶序號和「Register for Support」（註冊支援）選項的快照</block>
   <block id="113f9cd7bac6f4faa6b8d58e3e099a8e" category="paragraph"><block ref="113f9cd7bac6f4faa6b8d58e3e099a8e" category="inline-image-macro-rx" type="image"></block></block>
@@ -163,8 +114,78 @@
   <block id="0c4a8b62da9473fbd5401273c4f85ee0" category="list-text">完成建立NetApp 支援網站 一個不完善的帳戶<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
   <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">NetApp全新推出</block>
   <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">如果您是NetApp的新客戶、而且您沒有新的NSS帳戶、請依照下列每個步驟操作。</block>
-  <block id="cc7175a084ebd6e004cb2c751c162569" category="paragraph">一旦擁有NetApp 支援網站 您的不二帳戶、您就可以瀏覽至Cloud Manager、新增此新增的NSS-帳戶以供日後登錄。</block>
-  <block id="77bdda0b5be7d2725f2b5941d74db0e2" category="paragraph">「支援儀表板」可讓您新增及管理NetApp 支援網站 要搭配Cloud Manager使用的各種不一致帳戶。</block>
   <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">如果您有客戶層級的帳戶、可以新增一或多個NSS帳戶。</block>
-  <block id="4fde72c535fd0cd463dbeb49347cdfae" category="list-text">如果您有合作夥伴或經銷商帳戶、您可以新增一或多個NSS帳戶、但這些帳戶無法與客戶層級帳戶一起新增。</block>
+  <block id="fd4eb119039df77c719a1f46167399a3" category="summary">Cloud Manager現已成為藍圖。BlueXP可讓您從單一控制面板建置、保護及管理混合式多雲端資料。</block>
+  <block id="a0d9a83eb0552b7cc89c8d441a15ede1" category="doc">歡迎使用NetApp BlueXP</block>
+  <block id="d1fe59ef952debed99ffc7ccaaa00a70" category="paragraph">Cloud Manager現在稱為藍圖XP。BlueXP可讓您從單一控制面板建置、保護及管理混合式多雲端資料。</block>
+  <block id="4860911c5c67c5e04987564884e8b85e" category="section-title">統一化管理體驗</block>
+  <block id="c3eb39b445a75ad05505fe32c6f061df" category="paragraph">BlueXP可讓您從單一介面管理所有的儲存與資料資產。</block>
+  <block id="e2f4ed3372452716e062769cee896707" category="paragraph">您可以使用BlueXP來建立及管理雲端儲存設備（例如Cloud Volumes ONTAP 、支援和Azure NetApp Files 支援）、使用資料服務（例如、Cloud Backup和Cloud Data Sense）、以及控制許多內部部署和邊緣儲存設備。</block>
+  <block id="fc8ff23d0bf81d0f8427b5c75023f80e" category="inline-link">請至BlueXP網站深入瞭解</block>
+  <block id="8ec0fdd1845d3a5b2aa52e5cc7bce6ee" category="list-text"><block ref="8ec0fdd1845d3a5b2aa52e5cc7bce6ee" category="inline-link-rx"></block></block>
+  <block id="61b173efd5c260fd3e3f446d9d4b37e7" category="inline-link">開始使用BlueXP</block>
+  <block id="790c95b0226a2581bfc7d45871227daf" category="list-text"><block ref="790c95b0226a2581bfc7d45871227daf" category="inline-link-rx"></block></block>
+  <block id="31f0834695d820dc381e57397e466d12" category="section-title">新的導覽功能表</block>
+  <block id="fd1529b541f9947e3defd06b8efbfca3" category="paragraph">在BlueXP的導覽功能表中、資料服務現在會依類別進行組織、並根據其功能命名。例如、您可以移至* Protection（保護）*類別並選取* Backup and recovery（備份與恢復）*來存取Cloud Backup（雲端備份）。</block>
+  <block id="7cb04a79785e33be744a126127319a35" category="inline-image-macro">BlueXP導覽功能表的快照、顯示儲存與健全狀況等類別。</block>
+  <block id="e3a2069a256a46b571b57fe46324f5c0" category="paragraph"><block ref="e3a2069a256a46b571b57fe46324f5c0" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="68d4f3d7366b4ea59a65f0c44540e368" category="section-title">新產品整合</block>
+  <block id="054332983ba253fe4573945dcdbc8109" category="list-text">您現在可以管理更多內部儲存系統、例如E系列和StorageGRID E原地 儲存系統。</block>
+  <block id="008dd953f4aadef1cabe373c88ac29c1" category="list-text">您現在可以使用先前僅以獨立式服務形式提供的資料服務、搭配個別的UI、例如Digital Advisor（前身Active IQ 為《不二》）。</block>
+  <block id="7a58e46486e93797ee672a65eac3170f" category="paragraph">*深入瞭解*</block>
+  <block id="23c19e9851a45bd1a62c97b5c51e16ab" category="inline-link">管理E系列儲存系統</block>
+  <block id="652eac6ffac6ea42cdd10bbba7bc6c0c" category="list-text"><block ref="652eac6ffac6ea42cdd10bbba7bc6c0c" category="inline-link-rx"></block></block>
+  <block id="280f0ea2e556e240b5f15b51047b45b8" category="inline-link">管理StorageGRID 功能</block>
+  <block id="d694b62f00b305ea3d15052a9af4e461" category="list-text"><block ref="d694b62f00b305ea3d15052a9af4e461" category="inline-link-rx"></block></block>
+  <block id="f3bb3ec21babd88d81e5f7aefe69cced" category="inline-link">深入瞭解數位顧問整合</block>
+  <block id="fd93e0ac3cede5691afd22e4d95042e3" category="list-text"><block ref="fd93e0ac3cede5691afd22e4d95042e3" category="inline-link-rx"></block></block>
+  <block id="8adbcfd0f4d060d9e017dc7374ce832e" category="summary">BlueXP（前身為Cloud Manager）為IT專家和雲端架構設計師提供集中化的控制面板、可在混合式多雲端環境中管理、監控及自動化資料。依產品區域瀏覽文件、或使用上方搜尋、在任何位置尋找BlueXP文件中的內容。</block>
+  <block id="eeb8e055593f1709925a03e2ebb13265" category="doc">BlueXP文件</block>
+  <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp以多種方式支援BlueXP及其雲端服務。我們全年無休提供豐富的免費自助支援選項、例如知識庫（KB）文章和社群論壇。您的支援註冊包括透過網路票證提供遠端技術支援。</block>
+  <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">請搜尋BlueXP知識庫、找出有助於疑難排解問題的文章。</block>
+  <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">歡迎加入BlueXP社群、以追蹤後續討論或建立新討論。</block>
+  <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">您目前正在檢視的BlueXP文件。</block>
+  <block id="6702efec14563f45f1ee2f8c613b8ad8" category="paragraph">我們非常重視您的意見。提交意見反應、協助我們改善藍圖。</block>
+  <block id="1012a287397c66025d7748edf06a36e2" category="paragraph">若要使用*建立案例*功能、您必須先執行一次性註冊您的BlueXP帳戶ID序號（例如960xxxx）。 <block ref="3349e4b3d05f646f2f1421bee7c2ad26" category="inline-link-macro-rx"></block>。</block>
+  <block id="6254a4afeeb76765a127fe74d31c1b3d" category="list-text">在BlueXP中、按一下*「說明」&gt;「支援」*。</block>
+  <block id="d950fb930d7f7e6bfdda1b91b4639a02" category="paragraph">如果您看不到您的NSS帳戶、可以瀏覽至BlueXP「Support（支援）」區段中的「* nssn* Management（* nssnss管理*）」索引標籤、將其新增至該處。</block>
+  <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*服務*：選取問題相關的服務。例如、特定於服務工作流程或功能的技術支援問題的BlueXP。</block>
+  <block id="aa996e20900197b0ea41485ada083d8c" category="paragraph">工作環境清單位於您在服務的最上層橫幅中所選的BlueXP帳戶、工作區和Connector範圍內。</block>
+  <block id="fa6b601b2fb4e3e5c7b466ecb8bd70ac" category="paragraph">此錯誤可能表示、與該帳戶相關聯的NSS帳戶及記錄公司與BlueXP帳戶序號的記錄公司不同（例如960xxxx)或工作環境序號。您可以在「建立案例*」表單頂端查看您的NSS帳戶清單、以找出最適合的項目、或使用下列其中一個選項尋求協助：</block>
+  <block id="8bf30fadf784022b073adb9233678a71" category="paragraph">在您透過NetApp技術支援開啟支援案例之前、您必須先在NetApp 支援網站 BlueXP中新增一個支援（NSS）帳戶、然後註冊以取得支援。</block>
+  <block id="2322ca552c2b0ebe090c8485519246a8" category="list-text">註冊您的BlueXP帳戶ID支援訂閱（您的20位數960xxxxxxx序號位於BlueXP的「Support Resources（支援資源）」頁面）。</block>
+  <block id="23fdcbefa6d9cd877be7ceb7a18bb936" category="paragraph">這是您在BlueXP內任何服務的單一支援訂閱ID。每個BlueXP帳戶層級的支援訂閱都必須註冊。</block>
+  <block id="67dbdeb11e22ea7def810bade59ce818" category="paragraph">這些序號通常稱為「_PAYGO」序號、並在Cloud Volumes ONTAP 部署時由BlueXP產生。</block>
+  <block id="9d4125dc88bb9db6eb4be939905761ce" category="paragraph">註冊這兩種類型的序號、即可開啟支援服務單和自動建立個案。</block>
+  <block id="76928f97884b4332b83c5be9b99d93d3" category="paragraph">身為現有的NetApp客戶或合作夥伴、您可以使用NetApp 支援網站 您的畫面（NSS）SSO帳戶執行上述登錄。在「支援儀表板」中、BlueXP提供一個* nssn*管理*頁面、您可以在其中新增您的nssa帳戶。新增您的NSS帳戶後、BlueXP會自動為您註冊這些序號。</block>
+  <block id="8d80298f51b7ff2da78e26e60195c7a3" category="paragraph"><block ref="cbec7c1a4a2acff5e84457dd449ac01d" category="inline-xref-macro-rx"></block>。</block>
+  <block id="679f2cae4657f177cc89458d49c97e5f" category="paragraph">如果您是NetApp的新客戶、您必須在NetApp的支援註冊網站上完成一次性註冊您的BlueXP帳戶ID序號。完成此註冊並建立新的NSS帳戶之後、您就可以在BlueXP中使用此帳戶自動註冊、以便繼續進行。</block>
+  <block id="a92ec860f505b318fd0f0eba6165d607" category="section-title">新增一個NSS帳戶至藍圖XP</block>
+  <block id="f2575f6d19024f7288cf78d7dc5b3db9" category="paragraph">「支援儀表板」可讓您新增及管理NetApp 支援網站 搭配BlueXP使用的支援帳戶。</block>
+  <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">如果您有合作夥伴或經銷商帳戶、您可以新增一或多個NSS帳戶、但這些帳戶無法與客戶層級帳戶一起新增。</block>
+  <block id="1afe19576f77bb0073c93359ed2cbb18" category="list-text">在BlueXP主控台右上角、按一下「說明」圖示、然後選取「*支援*」。</block>
+  <block id="cbc6cc3bb022583403171b447b2a962c" category="paragraph">這些行動可讓BlueXP將您的nssa帳戶用於授權下載、軟體升級驗證、以及未來的支援註冊等項目。</block>
+  <block id="7e177185e7eddff33dd8f3aeb7551132" category="paragraph">如果您是擁有NSS帳戶的NetApp客戶、您只需透過BlueXP註冊即可獲得支援。</block>
+  <block id="25b94e7b58140f12be91fa8fd935fa59" category="list-text">如果您尚未這麼做、請將您的NSS帳戶新增至藍圖XP。</block>
+  <block id="5226d4ec1f4f81b740cbbd27635b441f" category="list-text">請務必複製上述序號欄位使用的BlueXP帳戶序號（960xxxx）。這將加速帳戶處理。</block>
+  <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">從「Support Registration（支援註冊）」頁面找到您的帳戶ID序號。</block>
+  <block id="50a1dc01b7312307c34a888071586955" category="list-text">複製上述步驟2的帳戶序號、完成安全性檢查、然後確認您已閱讀NetApp的全球資料隱私權政策。</block>
+  <block id="cc8b0535948da368f832027c19b7f853" category="list-text">請務必複製上述序號欄位使用的帳戶序號（960xxxx）。這將加速帳戶處理。</block>
+  <block id="1c0e45ef07d0dbc13ca2394d5e285fd7" category="paragraph">一旦擁有NetApp 支援網站 您的不二帳戶、您就可以瀏覽至BlueXP、新增此新的NSS-帳戶以供日後登錄。</block>
+  <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">所有BlueXP文件</block>
+  <block id="5e2f5f3c24ae8c6ab3eca618826b0e23" category="sidebar">擴充功能</block>
+  <block id="5a935787d6f091fc760443ab4c491465" category="sidebar">治理</block>
+  <block id="605669cab962bf944d99ce89cf9e58d9" category="sidebar">健全狀況</block>
+  <block id="f1c9e9af80bb533618f5bdefe333747d" category="sidebar">洞見</block>
+  <block id="340a76e3aef8e862f5fd79411261b297" category="sidebar">行動力</block>
+  <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">保護</block>
+  <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">儲存設備</block>
+  <block id="acef5d51685932cc367c2b457797c936" category="sidebar">歡迎使用BlueXP</block>
+  <block id="4d76faa1554725dd328ee6ba5b97a819" category="sidebar">深入瞭解BlueXP的推出。</block>
+  <block id="679d45f8d9939047ac9efb03e95c425c" category="sidebar">瞭解如何開始使用BlueXP並管理Connectors、帳戶等。</block>
+  <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">瞭解所有BlueXP的新功能。</block>
+  <block id="3de329d856b09fe94d05567c4761f82d" category="sidebar">Digital Advisor（前身Active IQ 為《》）</block>
+  <block id="9b125025fd2aeab175107728e40c19f1" category="sidebar">自動化BlueXP中的行動、加速資源配置並免除手動工作。</block>
+  <block id="b4f83b03956523a39e8bbbd0895f0f29" category="sidebar">Cloud Insights</block>
+  <block id="c50b91dc494c1ae78bb56ca7f5fb13a9" category="sidebar">控制雲端工作負載的效能與使用率。</block>
 </blocks>
