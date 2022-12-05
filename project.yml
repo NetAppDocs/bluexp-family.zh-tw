@@ -52,11 +52,6 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-relnotes/index.html
     summary: 瞭解所有BlueXP的新功能。
     tags: all
-  - title: Digital Advisor（前身Active IQ 為《》）
-    icon: "./media/icon-activeiq.png"
-    url: https://docs.netapp.com/us-en/active-iq/index.html
-    tags: all, health
-    summary: 可據以行動的情報、達到最佳的儲存健全狀況。
   - title: Amazon FSX for ONTAP Sf
     icon: "./media/icon-fsx.png"
     url: https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/index.html
@@ -122,6 +117,11 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-compute/index.html
     summary: 深入瞭解雲端運算支出、並找出可能的節約效益。
     tags: all, aws, extension
+  - title: Digital Advisor（前身Active IQ 為《》）
+    icon: "./media/icon-activeiq.png"
+    url: https://docs.netapp.com/us-en/active-iq/index.html
+    tags: all, health
+    summary: 可據以行動的情報、達到最佳的儲存健全狀況。
   - title: E系列系統
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
@@ -140,7 +140,7 @@ product-family:
   - title: 內部 ONTAP 部署的叢集
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/index.html
-    summary: 在AFF 混合雲上管理NetApp的功能與FAS 功能。
+    summary: 使用System Manager和BlueXP的資料服務、從AFF BlueXP管理您的NetApp功能和FAS 功能。
     tags: all, storage
   - title: 勒索軟體保護
     icon: "./media/icon-ransomware.png"

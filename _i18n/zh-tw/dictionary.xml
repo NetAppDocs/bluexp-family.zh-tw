@@ -50,7 +50,6 @@
   <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Kubernetes叢集</block>
   <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">在混合雲中、對Kubernetes叢集進行進階資料管理。</block>
   <block id="d0f1687c68ee0f0d9bac765716d18923" category="sidebar">內部 ONTAP 部署的叢集</block>
-  <block id="b7a3a3d6e3a875d91556459f1c471d33" category="sidebar">在AFF 混合雲上管理NetApp的功能與FAS 功能。</block>
   <block id="950604af87c30e09716e6d097eb491db" category="sidebar">勒索軟體保護</block>
   <block id="0a2beb44f980a6220ce4afa12b490e4f" category="sidebar">評估您的資料對網路攻擊的應變能力。</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">複寫</block>
@@ -188,4 +187,5 @@
   <block id="9b125025fd2aeab175107728e40c19f1" category="sidebar">自動化BlueXP中的行動、加速資源配置並免除手動工作。</block>
   <block id="b4f83b03956523a39e8bbbd0895f0f29" category="sidebar">Cloud Insights</block>
   <block id="c50b91dc494c1ae78bb56ca7f5fb13a9" category="sidebar">控制雲端工作負載的效能與使用率。</block>
+  <block id="19874606c485ce682436c45308e50186" category="sidebar">使用System Manager和BlueXP的資料服務、從AFF BlueXP管理您的NetApp功能和FAS 功能。</block>
 </blocks>
