@@ -188,4 +188,6 @@
   <block id="b4f83b03956523a39e8bbbd0895f0f29" category="sidebar">Cloud Insights</block>
   <block id="c50b91dc494c1ae78bb56ca7f5fb13a9" category="sidebar">控制雲端工作負載的效能與使用率。</block>
   <block id="19874606c485ce682436c45308e50186" category="sidebar">使用System Manager和BlueXP的資料服務、從AFF BlueXP管理您的NetApp功能和FAS 功能。</block>
+  <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">開始之前</block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成後</block>
 </blocks>
