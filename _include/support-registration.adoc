@@ -8,7 +8,7 @@
 
 == 支援雲端供應商解決方案
 
-如需雲端供應商解決方案的技術支援、請參閱產品的藍圖XP文件中的「取得協助」。
+如需您已整合至BlueXP的下列雲端供應商解決方案的技術支援、請參閱該產品的藍圖XP文件中的「取得協助」。
 
 * link:https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/start/concept-fsx-aws.html#getting-help["Amazon FSX for ONTAP Sf"^]
 * link:https://docs.netapp.com/us-en/cloud-manager-azure-netapp-files/concept-azure-netapp-files.html#getting-help["Azure NetApp Files"^]
