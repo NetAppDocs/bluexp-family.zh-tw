@@ -40,12 +40,14 @@ image:screenshot-navigation-menu.png["BlueXP導覽功能表的快照、顯示儲
 
 == 新產品整合
 
+* 您現在可以在安裝Connector的AWS帳戶中管理Amazon S3儲存區。
 * 您現在可以管理更多內部儲存系統、例如E系列和StorageGRID E原地 儲存系統。
 * 您現在可以使用先前僅以獨立式服務形式提供的資料服務、搭配個別的UI、例如Digital Advisor（前身Active IQ 為《不二》）。
 
 
 *深入瞭解*
 
+* https://docs.netapp.com/us-en/bluexp-s3-storage/index.html["管理Amazon S3儲存區"^]
 * https://docs.netapp.com/us-en/cloud-manager-e-series/index.html["管理E系列儲存系統"^]
 * https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html["管理StorageGRID 功能"^]
 * https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-bluexp.html["深入瞭解數位顧問整合"^]
