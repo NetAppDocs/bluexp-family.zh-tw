@@ -235,7 +235,11 @@
   <block id="8a4a49cb4536baac7f58e0eb6e2dac29" category="list-text"><block ref="8a4a49cb4536baac7f58e0eb6e2dac29" category="inline-link-rx"></block></block>
   <block id="d79294e72dc3584cc12c98a7a931315d" category="sidebar">Amazon S3儲存設備</block>
   <block id="4b271c8c28b8ccb8e638e54186acac01" category="sidebar">探索及管理AWS帳戶中的Amazon S3儲存區。</block>
-  <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*附件（選用）*：一次上傳最多五個附件。</block>
-  <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">每個檔案的附件上限為25 MB。支援下列副檔名：TXT、log、pdf、JP/JPEG、rtf、 DOC/docx、xls/xlsx及csv.</block>
-  <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*更新案例備註*：提供問題的其他詳細資料、或選擇*上傳檔案*最多附加五個檔案。</block>
+  <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">* 附件（選填） * ：上傳最多五個附件、一次上傳一個。</block>
+  <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">每個檔案的附件上限為 25 MB 。支援下列副檔名： txt 、 log 、 pdf 、 jpg/jpeg 、 rtf 、 doc/dox 、 xls/xlsx 和 csv 。</block>
+  <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">* 更新案例附註 * ：提供問題的其他詳細資料、或選擇 * 上傳檔案 * 最多附加五個檔案。</block>
+  <block id="723ffd15eb7b4453afd0fa0af42c04c3" category="sidebar">經濟效益</block>
+  <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">識別目前或預測容量不足的叢集、並實作資料分層或其他容量建議。</block>
+  <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">營運恢復能力</block>
+  <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">實作自動化韌體和軟體組態風險修正、以維持 ONTAP 叢集的健全狀況。</block>
 </blocks>
