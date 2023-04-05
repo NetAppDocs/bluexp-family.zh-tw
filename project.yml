@@ -43,7 +43,7 @@ product-family:
     summary: 深入瞭解BlueXP的推出。
     tags: all
   - title: 設定與管理
-    icon: "./media/icon-docs.png"
+    icon: "./media/icon-admin.png"
     url: https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html
     summary: 瞭解如何開始使用BlueXP並管理Connectors、帳戶等。
     tags: all, admin
@@ -128,7 +128,7 @@ product-family:
     tags: all, health
     summary: 可據以行動的情報、達到最佳的儲存健全狀況。
   - title: E系列系統
-    icon: "./media/icon-onprem.png"
+    icon: "./media/icon-e-series.png"
     url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
     summary: 探索E系列系統、完整檢視混合式多雲端的資料。
     tags: all, storage
@@ -168,7 +168,7 @@ product-family:
     summary: 在儲存系統之間複寫資料、以支援備份與災難恢復。
     tags: all, protection
   - title: StorageGRID
-    icon: "./media/icon-onprem.png"
+    icon: "./media/icon-storagegrid.png"
     url: https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html
     summary: 探索StorageGRID 及管理您的系統。
     tags: all, storage
