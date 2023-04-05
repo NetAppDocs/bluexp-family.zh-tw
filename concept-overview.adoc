@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: concept-overview.html 
 keywords: overview, bluexp, integration, cloud manager, digital advisor, active iq, menu 
-summary: Cloud Manager現已成為藍圖。BlueXP可讓您從單一控制面板建置、保護及管理混合式多雲端資料。 
+summary: NetApp BlueXP 是 Cloud Manager 的進化版。BlueXP 是統一化的控制平台、可為內部部署和雲端環境的儲存和資料服務提供混合式多雲端體驗。 
 ---
 = 歡迎使用NetApp BlueXP
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: Cloud Manager現已成為藍圖。BlueXP可讓您從單一控制面板�
 
 
 [role="lead"]
-Cloud Manager現在稱為藍圖XP。BlueXP可讓您從單一控制面板建置、保護及管理混合式多雲端資料。
+NetApp BlueXP 是 Cloud Manager 的進化版。BlueXP 是統一化的控制平台、可為內部部署和雲端環境的儲存和資料服務提供混合式多雲端體驗。
 
 
 

@@ -147,7 +147,7 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-kubernetes/index.html
     summary: 在混合雲中、對Kubernetes叢集進行進階資料管理。
     tags: all, storage, aws, azure
-  - title: 內部 ONTAP 部署的叢集
+  - title: 內部部署 ONTAP 的叢集
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/index.html
     summary: 使用System Manager和BlueXP的資料服務、從AFF BlueXP管理您的NetApp功能和FAS 功能。
