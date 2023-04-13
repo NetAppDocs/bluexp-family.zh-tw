@@ -241,4 +241,6 @@
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">內部部署 ONTAP 的叢集</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">設定與管理</block>
+  <block id="986e1f3279b4d74444bd32d4f833afbd" category="sidebar">數位錢包</block>
+  <block id="5928ade999566a2ca0d839d3c191b3f1" category="sidebar">管理及監控您的授權與訂閱。</block>
 </blocks>
