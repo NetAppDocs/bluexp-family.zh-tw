@@ -14,7 +14,6 @@
   <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">文件</block>
   <block id="80b1b0d2b1ebf2b3cba2d25759801afd" category="list-text">mailto：ng-cloudmanager-feedback@netapp.com [意見反應電子郵件]</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
-  <block id="a623a8d0366bf079411aa30be45b2d10" category="sidebar">運算</block>
   <block id="8e5adb4723e04a1f9bf2ea7df2c5e684" category="sidebar">連接器與帳戶</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">版本資訊</block>
   <block id="92086381b2a7391ff015bfa58d13afc9" category="sidebar">可據以行動的情報、達到最佳的儲存健全狀況。</block>
@@ -22,16 +21,11 @@
   <block id="977f48c0ad107bab5b00e6582e3d62b5" category="sidebar">將ONTAP 完整的功能用作由AWS管理的原生服務。</block>
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">以程式設計方式管理雲端型資源。</block>
-  <block id="ca9106b8b82ff55b6fdce530ccb952a7" category="sidebar">應用程式範本</block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="sidebar">Azure NetApp Files</block>
   <block id="7f0915fd413dcc718e35e39d644d92ac" category="sidebar">為核心業務應用程式提供高效能檔案儲存服務。</block>
-  <block id="dad57e95fc9a5390302ad830888cbdb9" category="sidebar">雲端備份</block>
   <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">備份及還原雲端和內部部署資料。</block>
-  <block id="d882bf73cd5caf1e5aa39edbf893ad74" category="sidebar">雲端資料感測</block>
   <block id="2090f2d846793f153b9266c648b079ef" category="sidebar">準備好應用程式資料和雲端環境的隱私保護。</block>
-  <block id="e367efbc26bd12c0d6ae37dd6a55ef9b" category="sidebar">Cloud Sync</block>
   <block id="9f47c7f98e6626074067a711fc1863ea" category="sidebar">在內部部署與雲端資料儲存區之間同步資料。</block>
-  <block id="92d2b6aba6afa3f690540cf3dba9b633" category="sidebar">雲端分層</block>
   <block id="c6844dc3fe4e51f03d9c9209b1f58fc4" category="sidebar">將內部ONTAP 部署的NetApp儲存設備延伸至雲端。</block>
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
   <block id="1264ff6a809549b27ab6285b6ab793f2" category="sidebar">讓您的雲端儲存設備更經濟實惠、更聰明、更符合法規要求且更安全。</block>
@@ -40,11 +34,9 @@
   <block id="b0cee72642f5457a71ddd0b49efb6d93" category="sidebar">適用於 Google Cloud Cloud Volumes Service</block>
   <block id="862d06f5b0779c31053bcadc07e8028b" category="sidebar">安全、保護及加速您的檔案儲存。</block>
   <block id="a17d9dd4943af64ba04db4529621baf0" category="sidebar">深入瞭解雲端運算支出、並找出可能的節約效益。</block>
-  <block id="24e6e2f6171b43a847fe194a9a9b5cd0" category="sidebar">全域檔案快取</block>
   <block id="20fa9c1bc12bf7468e5d341fc1e54b7f" category="sidebar">為分散的工作團隊提供即時的全域檔案共用功能。</block>
   <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Kubernetes叢集</block>
   <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">在混合雲中、對Kubernetes叢集進行進階資料管理。</block>
-  <block id="950604af87c30e09716e6d097eb491db" category="sidebar">勒索軟體保護</block>
   <block id="0a2beb44f980a6220ce4afa12b490e4f" category="sidebar">評估您的資料對網路攻擊的應變能力。</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">複寫</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">在儲存系統之間複寫資料、以支援備份與災難恢復。</block>
@@ -170,10 +162,7 @@
   <block id="4d76faa1554725dd328ee6ba5b97a819" category="sidebar">深入瞭解BlueXP的推出。</block>
   <block id="679d45f8d9939047ac9efb03e95c425c" category="sidebar">瞭解如何開始使用BlueXP並管理Connectors、帳戶等。</block>
   <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">瞭解所有BlueXP的新功能。</block>
-  <block id="3de329d856b09fe94d05567c4761f82d" category="sidebar">Digital Advisor（前身Active IQ 為《》）</block>
   <block id="9b125025fd2aeab175107728e40c19f1" category="sidebar">自動化BlueXP中的行動、加速資源配置並免除手動工作。</block>
-  <block id="b4f83b03956523a39e8bbbd0895f0f29" category="sidebar">Cloud Insights</block>
-  <block id="c50b91dc494c1ae78bb56ca7f5fb13a9" category="sidebar">控制雲端工作負載的效能與使用率。</block>
   <block id="19874606c485ce682436c45308e50186" category="sidebar">使用System Manager和BlueXP的資料服務、從AFF BlueXP管理您的NetApp功能和FAS 功能。</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">開始之前</block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成後</block>
@@ -236,11 +225,21 @@
   <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">識別目前或預測容量不足的叢集、並實作資料分層或其他容量建議。</block>
   <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">營運恢復能力</block>
   <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">實作自動化韌體和軟體組態風險修正、以維持 ONTAP 叢集的健全狀況。</block>
-  <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">NetApp BlueXP 為您的組織提供單一控制面板、可在內部部署和雲端環境中建置、保護及管理資料。依產品區域瀏覽文件、或使用上方搜尋、在任何位置尋找BlueXP文件中的內容。</block>
   <block id="b43ac04bee8d38f5824a93a273f0ad9d" category="summary">NetApp BlueXP 是 Cloud Manager 的進化版。BlueXP 是統一化的控制平台、可為內部部署和雲端環境的儲存和資料服務提供混合式多雲端體驗。</block>
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">內部部署 ONTAP 的叢集</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">設定與管理</block>
-  <block id="986e1f3279b4d74444bd32d4f833afbd" category="sidebar">數位錢包</block>
   <block id="5928ade999566a2ca0d839d3c191b3f1" category="sidebar">管理及監控您的授權與訂閱。</block>
+  <block id="bd4152637ad88c0eb060a24cddfba1f9" category="summary">NetApp BlueXP （ Cloud Manager ）為貴組織提供單一控制面板、可在內部部署和雲端環境中建置、保護及管理資料。依產品區域瀏覽文件、或使用上方搜尋、在任何位置尋找BlueXP文件中的內容。</block>
+  <block id="4d82a1ec1af02725042c8c785564ee7a" category="sidebar">Amazon FSX for NetApp ONTAP 產品</block>
+  <block id="1220376b19b37830a4bf0ca859f13117" category="sidebar">備份與還原（ Cloud Backup ）</block>
+  <block id="ab3c79949a956f4792a7697fdb989ee5" category="sidebar">分類（ Cloud Data Sense ）</block>
+  <block id="050e5016f7040ceedbd80731cdf796db" category="sidebar">雲端運算（運算）</block>
+  <block id="2b09a63dc379266e4ddebf30644e5566" category="sidebar">複製與同步（ Cloud Sync ）</block>
+  <block id="457d79994b70adbf238bafd0fea18cb2" category="sidebar">數位顧問（ Active IQ ）</block>
+  <block id="2049421a4e8e45e83cd7cf18ffc00a12" category="sidebar">數位錢包</block>
+  <block id="283a34872fecedd9a307e184eaf214e5" category="sidebar">邊緣快取（全域檔案快取）</block>
+  <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">勒索軟體保護</block>
+  <block id="f795757823b59c3b3206b50b2da3e5c0" category="sidebar">補救（應用程式範本）</block>
+  <block id="1d0bd4d6c0b9e6459f709106d8874b1d" category="sidebar">分層（雲端分層）</block>
 </blocks>

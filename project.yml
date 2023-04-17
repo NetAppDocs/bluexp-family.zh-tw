@@ -52,7 +52,7 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-relnotes/index.html
     summary: 瞭解所有BlueXP的新功能。
     tags: all
-  - title: Amazon FSX for ONTAP Sf
+  - title: Amazon FSX for NetApp ONTAP 產品
     icon: "./media/icon-fsx.png"
     url: https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/index.html
     summary: 將ONTAP 完整的功能用作由AWS管理的原生服務。
@@ -67,41 +67,26 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-automation/index.html
     summary: 以程式設計方式管理雲端型資源。
     tags: all, api
-  - title: 應用程式範本
-    icon: "./media/icon-app-template.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-app-template/index.html
-    summary: 自動化BlueXP中的行動、加速資源配置並免除手動工作。
-    tags: all, health
   - title: Azure NetApp Files
     icon: "./media/icon-anf.png"
     url: https://docs.netapp.com/us-en/cloud-manager-azure-netapp-files/index.html
     summary: 為核心業務應用程式提供高效能檔案儲存服務。
     tags: all, storage, azure
-  - title: 雲端備份
+  - title: 備份與還原（ Cloud Backup ）
     icon: "./media/icon-backup.png"
     url: https://docs.netapp.com/us-en/cloud-manager-backup-restore/index.html
     summary: 備份及還原雲端和內部部署資料。
     tags: all, aws, azure, gcp, protection
-  - title: 雲端資料感測
+  - title: 分類（ Cloud Data Sense ）
     icon: "./media/icon-data-sense.png"
     url: https://docs.netapp.com/us-en/cloud-manager-data-sense/index.html
     summary: 準備好應用程式資料和雲端環境的隱私保護。
     tags: all, governance, aws, azure, gcp
-  - title: Cloud Insights
-    icon: "./media/icon-monitoring.png"
-    url: https://docs.netapp.com/us-en/cloudinsights/
-    summary: 控制雲端工作負載的效能與使用率。
-    tags: all, insights
-  - title: Cloud Sync
-    icon: "./media/icon-sync.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-sync/index.html
-    summary: 在內部部署與雲端資料儲存區之間同步資料。
-    tags: all, aws, azure, gcp, mobility
-  - title: 雲端分層
-    icon: "./media/icon-tiering.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-tiering/index.html
-    summary: 將內部ONTAP 部署的NetApp儲存設備延伸至雲端。
-    tags: all, aws, azure, gcp, mobility
+  - title: 雲端運算（運算）
+    icon: "./media/icon-compute.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-compute/index.html
+    summary: 深入瞭解雲端運算支出、並找出可能的節約效益。
+    tags: all, aws, extension
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
     url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
@@ -117,12 +102,12 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-service-gcp/index.html
     summary: 安全、保護及加速您的檔案儲存。
     tags: all, storage, gcp
-  - title: 運算
-    icon: "./media/icon-compute.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-compute/index.html
-    summary: 深入瞭解雲端運算支出、並找出可能的節約效益。
-    tags: all, aws, extension
-  - title: Digital Advisor（前身Active IQ 為《》）
+  - title: 複製與同步（ Cloud Sync ）
+    icon: "./media/icon-sync.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-sync/index.html
+    summary: 在內部部署與雲端資料儲存區之間同步資料。
+    tags: all, aws, azure, gcp, mobility
+  - title: 數位顧問（ Active IQ ）
     icon: "./media/icon-activeiq.png"
     url: https://docs.netapp.com/us-en/active-iq/index.html
     tags: all, health
@@ -142,7 +127,7 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-economic-efficiency/index.html
     summary: 識別目前或預測容量不足的叢集、並實作資料分層或其他容量建議。
     tags: all, governance
-  - title: 全域檔案快取
+  - title: 邊緣快取（全域檔案快取）
     icon: "./media/icon-cache.png"
     url: https://docs.netapp.com/us-en/cloud-manager-file-cache/index.html
     summary: 為分散的工作團隊提供即時的全域檔案共用功能。
@@ -166,7 +151,12 @@ product-family:
     icon: "./media/icon-ransomware.png"
     url: https://docs.netapp.com/us-en/cloud-manager-ransomware/index.html
     summary: 評估您的資料對網路攻擊的應變能力。
-    tags: all, governance
+    tags: all, protection
+  - title: 補救（應用程式範本）
+    icon: "./media/icon-app-template.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-app-template/index.html
+    summary: 自動化BlueXP中的行動、加速資源配置並免除手動工作。
+    tags: all, health
   - title: 複寫
     icon: "./media/icon-replication.png"
     url: https://docs.netapp.com/us-en/cloud-manager-replication/index.html
@@ -177,3 +167,8 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html
     summary: 探索StorageGRID 及管理您的系統。
     tags: all, storage
+  - title: 分層（雲端分層）
+    icon: "./media/icon-tiering.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-tiering/index.html
+    summary: 將內部ONTAP 部署的NetApp儲存設備延伸至雲端。
+    tags: all, aws, azure, gcp, mobility
