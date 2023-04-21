@@ -239,7 +239,7 @@
   <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">勒索軟體保護</block>
   <block id="f795757823b59c3b3206b50b2da3e5c0" category="sidebar">補救（應用程式範本）</block>
   <block id="1d0bd4d6c0b9e6459f709106d8874b1d" category="sidebar">分層（雲端分層）</block>
-  <block id="9d881c2e8fdc167a489e069a47255ba9" category="paragraph">您可以使用 BlueXP 來建立和管理雲端儲存設備（例如 Cloud Volumes ONTAP 和 Azure NetApp Files ）、移動、保護和分析資料、以及控制許多內部部署和邊緣儲存設備。</block>
   <block id="75d46f12940616f043309dfb109d814d" category="paragraph">在 BlueXP 的導覽功能表中、服務現在會依類別進行組織、並根據其功能來命名。例如、您可以從 * 保護 * 類別存取 BlueXP 備份與還原（ Cloud Backup ）。</block>
   <block id="bcaa38b35b3f595027217ec10755368a" category="list-text">您現在可以使用先前僅以獨立式服務形式提供的資料服務、使用獨立的 UI 、例如 BlueXP 數位顧問（ Active IQ ）。</block>
+  <block id="a28e6578744ceeb545878235d414e497" category="paragraph">您可以使用 BlueXP 來建立和管理雲端儲存設備（例如 Cloud Volumes ONTAP 和 Azure NetApp Files ）、移動、保護和分析資料、以及控制許多內部部署和邊緣儲存設備。</block>
 </blocks>
