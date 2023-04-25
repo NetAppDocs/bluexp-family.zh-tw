@@ -1,7 +1,7 @@
 ---
 layout: product-family 
 permalink: index.html 
-lead: 'NetApp BlueXP (Cloud Manager) provides your organization with a single control plane to build, protect, and govern data data across your on-premises and cloud environments. Browse the docs by product area or use the search above to find content anywhere in the BlueXP docs.' 
+lead: 'NetApp BlueXP (Cloud Manager) provides your organization with a single control plane to build, protect, and govern data across your on-premises and cloud environments. Browse the docs by product area or use the search above to find content anywhere in the BlueXP docs.' 
 summary: NetApp BlueXP （ Cloud Manager ）為貴組織提供單一控制面板、可在內部部署和雲端環境中建置、保護及管理資料。依產品區域瀏覽文件、或使用上方搜尋、在任何位置尋找BlueXP文件中的內容。 
 ---
 = BlueXP文件
