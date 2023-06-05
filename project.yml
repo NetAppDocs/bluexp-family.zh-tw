@@ -130,6 +130,11 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-kubernetes/index.html
     summary: 在混合雲中、對Kubernetes叢集進行進階資料管理。
     tags: all,storage,aws,azure
+  - title: 移轉報告
+    icon: "./media/icon-reports.png"
+    url: https://docs.netapp.com/us-en/bluexp-reports/index.html
+    summary: 識別儲存環境中的檔案數量、檔案系統樹狀結構的深度和廣度、最大檔案等。
+    tags: all,storage
   - title: 內部部署 ONTAP 的叢集
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html
