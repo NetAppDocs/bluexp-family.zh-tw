@@ -243,4 +243,6 @@
   <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">此錯誤可能表示、與該帳戶相關聯的NSS帳戶及記錄公司與BlueXP帳戶序號的記錄公司不同（例如960xxxx)或工作環境序號。您可以使用下列其中一個選項尋求協助：</block>
   <block id="ac7b3cf10ea08c788a374e0291742517" category="sidebar">移轉報告</block>
   <block id="724a3079d3074b0468d00facd32bb57e" category="sidebar">識別儲存環境中的檔案數量、檔案系統樹狀結構的深度和廣度、最大檔案等。</block>
+  <block id="ff45d71e69fb5930de79de7c94326d7b" category="sidebar">Volume 快取</block>
+  <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">建立可寫入的快取磁碟區、以加速資料存取或卸載大量存取磁碟區的流量。</block>
 </blocks>

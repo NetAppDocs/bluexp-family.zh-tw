@@ -170,3 +170,8 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-tiering/index.html
     summary: 將內部ONTAP 部署的NetApp儲存設備延伸至雲端。
     tags: all,aws,azure,gcp,mobility
+  - title: Volume 快取
+    icon: "./media/icon-docs.png"
+    url: https://docs.netapp.com/us-en/bluexp-volume-caching/index.html
+    summary: 建立可寫入的快取磁碟區、以加速資料存取或卸載大量存取磁碟區的流量。
+    tags: all,mobility
