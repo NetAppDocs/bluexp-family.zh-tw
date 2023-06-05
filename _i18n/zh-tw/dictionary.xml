@@ -245,4 +245,6 @@
   <block id="724a3079d3074b0468d00facd32bb57e" category="sidebar">識別儲存環境中的檔案數量、檔案系統樹狀結構的深度和廣度、最大檔案等。</block>
   <block id="ff45d71e69fb5930de79de7c94326d7b" category="sidebar">Volume 快取</block>
   <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">建立可寫入的快取磁碟區、以加速資料存取或卸載大量存取磁碟區的流量。</block>
+  <block id="2b3e8f910d66604cd77f93b333670468" category="sidebar">Azure Blob 儲存設備</block>
+  <block id="fbdd0eee7f6077dcd3ac16cc88517d62" category="sidebar">探索並管理 Azure 訂閱中的 Azure Blob 儲存設備。</block>
 </blocks>

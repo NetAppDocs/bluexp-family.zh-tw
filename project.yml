@@ -65,6 +65,11 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-automation/index.html
     summary: 以程式設計方式管理雲端型資源。
     tags: all,api
+  - title: Azure Blob 儲存設備
+    icon: "./media/icon-azure-blob.png"
+    url: https://docs.netapp.com/us-en/bluexp-blob-storage/index.html
+    summary: 探索並管理 Azure 訂閱中的 Azure Blob 儲存設備。
+    tags: all,storage
   - title: Azure NetApp Files
     icon: "./media/icon-anf.png"
     url: https://docs.netapp.com/us-en/bluexp-azure-netapp-files/index.html
