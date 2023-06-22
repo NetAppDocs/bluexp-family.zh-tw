@@ -170,6 +170,11 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-storagegrid/index.html
     summary: 探索StorageGRID 及管理您的系統。
     tags: all,storage
+  - title: 永續發展儀表板
+    icon: "./media/icon-sustainability.png"
+    url: https://docs.netapp.com/us-en/active-iq/concept_understand_sustainability_dashboard.html
+    summary: 分析儲存系統的永續性。
+    tags: all,health
   - title: 分層（雲端分層）
     icon: "./media/icon-tiering.png"
     url: https://docs.netapp.com/us-en/bluexp-tiering/index.html
