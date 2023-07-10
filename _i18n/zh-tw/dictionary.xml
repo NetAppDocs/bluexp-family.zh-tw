@@ -249,4 +249,6 @@
   <block id="fbdd0eee7f6077dcd3ac16cc88517d62" category="sidebar">探索並管理 Azure 訂閱中的 Azure Blob 儲存設備。</block>
   <block id="072d1a387472fb47fdfa33e48ff08ffd" category="sidebar">永續發展儀表板</block>
   <block id="b6ec628f73e9b33a6ae94b2c3ef2879b" category="sidebar">分析儲存系統的永續性。</block>
+  <block id="833c2c211a541e50ad94433664e4b5c1" category="sidebar">Google Cloud Storage</block>
+  <block id="195aba5a6e7c41123fc8903b34a99aeb" category="sidebar">探索並管理 Google 帳戶中的雲端儲存庫貯體。</block>
 </blocks>
