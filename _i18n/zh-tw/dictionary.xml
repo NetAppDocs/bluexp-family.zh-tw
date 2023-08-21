@@ -251,4 +251,6 @@
   <block id="d889e6e7cc4c5509ab5b37f8fc894e46" category="list-text">在 BlueXP 主控台的右上角、選取「說明」圖示、然後選取 * 「支援 * 」。</block>
   <block id="c0e0b7ff0de9558404e9b77ece42948a" category="list-text">選取 *NSS Management &gt; Add NSS Account* 。</block>
   <block id="85b9386ed443776127e099931d73448a" category="list-text">系統提示時、請選取 * 繼續 * 以重新導向至 Microsoft 登入頁面。</block>
+  <block id="645a84975202e30700b572b49a5ee29d" category="sidebar">災難恢復</block>
+  <block id="c7b1fe992423d57d0e492585ff631c02" category="sidebar">使用 Amazon FSX for ONTAP 上的 VMware Cloud 做為災難恢復站台、來保護內部部署的 VMware 工作負載。</block>
 </blocks>
