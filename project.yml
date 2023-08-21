@@ -119,7 +119,7 @@ product-family:
   - title: 災難恢復
     icon: "./media/icon-disaster-recovery.png"
     url: https://docs.netapp.com/us-en/bluexp-disaster-recovery/index.html
-    tags: all, protection
+    tags: all,protection
     summary: 使用 Amazon FSX for ONTAP 上的 VMware Cloud 做為災難恢復站台、來保護內部部署的 VMware 工作負載。
   - title: E系列系統
     icon: "./media/icon-e-series.png"
