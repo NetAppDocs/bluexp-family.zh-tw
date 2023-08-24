@@ -183,7 +183,7 @@ product-family:
     tags: all,storage
   - title: 永續發展儀表板
     icon: "./media/icon-sustainability.png"
-    url: https://docs.netapp.com/us-en/active-iq/concept_understand_sustainability_dashboard.html
+    url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
     summary: 分析儲存系統的永續性。
     tags: all,governance
   - title: 分層（雲端分層）
