@@ -2,7 +2,7 @@
 settings:
   name: BlueXP
   platform: cloud
-  search: bluexp-relnotes,bluexp-setup-admin,bluexp-cloud-volumes-ontap,bluexp-ontap-onprem,bluexp-azure-netapp-files,bluexp-fsx-ontap,bluexp-cloud-volumes-service-gcp,bluexp-kubernetes,bluexp-remediation,bluexp-backup-recovery,bluexp-copy-sync,bluexp-classification,bluexp-tiering,bluexp-ransomware-protection,bluexp-replication,bluexp-edge-caching,bluexp-cloud-ops,bluexp-automation,cloud-volumes-ontap-relnotes,bluexp-storagegrid,bluexp-e-series,bluexp-s3-storage,bluexp-economic-efficiency,bluexp-operational-resiliency,bluexp-digital-wallet,bluexp-blob-storage,bluexp-reports,bluexp-volume-caching,bluexp-disaster-recovery
+  search: bluexp-relnotes,bluexp-setup-admin,bluexp-cloud-volumes-ontap,bluexp-ontap-onprem,bluexp-azure-netapp-files,bluexp-fsx-ontap,bluexp-cloud-volumes-service-gcp,bluexp-kubernetes,bluexp-remediation,bluexp-backup-recovery,bluexp-copy-sync,bluexp-classification,bluexp-tiering,bluexp-replication,bluexp-edge-caching,bluexp-cloud-ops,bluexp-automation,cloud-volumes-ontap-relnotes,bluexp-storagegrid,bluexp-e-series,bluexp-s3-storage,bluexp-economic-efficiency,bluexp-operational-resiliency,bluexp-digital-wallet,bluexp-blob-storage,bluexp-reports,bluexp-volume-caching,bluexp-disaster-recovery
   internal:
     pdf_enabled: false
     lipi_enabled: true
@@ -161,11 +161,6 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-operational-resiliency/index.html
     summary: 實作自動化韌體和軟體組態風險修正、以維持 ONTAP 叢集的健全狀況。
     tags: all,health
-  - title: 勒索軟體保護
-    icon: "./media/icon-ransomware.png"
-    url: https://docs.netapp.com/us-en/bluexp-ransomware-protection/index.html
-    summary: 評估您的資料對網路攻擊的應變能力。
-    tags: all,governance,protection
   - title: 補救（應用程式範本）
     icon: "./media/icon-app-template.png"
     url: https://docs.netapp.com/us-en/bluexp-remediation/index.html
