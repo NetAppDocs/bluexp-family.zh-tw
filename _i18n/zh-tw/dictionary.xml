@@ -32,7 +32,6 @@
   <block id="20fa9c1bc12bf7468e5d341fc1e54b7f" category="sidebar">為分散的工作團隊提供即時的全域檔案共用功能。</block>
   <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Kubernetes叢集</block>
   <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">在混合雲中、對Kubernetes叢集進行進階資料管理。</block>
-  <block id="0a2beb44f980a6220ce4afa12b490e4f" category="sidebar">評估您的資料對網路攻擊的應變能力。</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">複寫</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">在儲存系統之間複寫資料、以支援備份與災難恢復。</block>
   <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">除了上述的自我支援選項、您也可以在啟動支援之後、與NetApp支援專家合作解決任何問題。</block>
@@ -179,7 +178,6 @@
   <block id="457d79994b70adbf238bafd0fea18cb2" category="sidebar">數位顧問（ Active IQ ）</block>
   <block id="2049421a4e8e45e83cd7cf18ffc00a12" category="sidebar">數位錢包</block>
   <block id="283a34872fecedd9a307e184eaf214e5" category="sidebar">邊緣快取（全域檔案快取）</block>
-  <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">勒索軟體保護</block>
   <block id="f795757823b59c3b3206b50b2da3e5c0" category="sidebar">補救（應用程式範本）</block>
   <block id="1d0bd4d6c0b9e6459f709106d8874b1d" category="sidebar">分層（雲端分層）</block>
   <block id="75d46f12940616f043309dfb109d814d" category="paragraph">在 BlueXP 的導覽功能表中、服務現在會依類別進行組織、並根據其功能來命名。例如、您可以從 * 保護 * 類別存取 BlueXP 備份與還原（ Cloud Backup ）。</block>
@@ -253,4 +251,6 @@
   <block id="85b9386ed443776127e099931d73448a" category="list-text">系統提示時、請選取 * 繼續 * 以重新導向至 Microsoft 登入頁面。</block>
   <block id="645a84975202e30700b572b49a5ee29d" category="sidebar">災難恢復</block>
   <block id="c7b1fe992423d57d0e492585ff631c02" category="sidebar">使用 Amazon FSX for ONTAP 上的 VMware Cloud 做為災難恢復站台、來保護內部部署的 VMware 工作負載。</block>
+  <block id="d7a02621d52c29a3c5f7895e817cba5b" category="sidebar">自動化目錄</block>
+  <block id="5d880ed9e8bc81eec72f5edb5332637d" category="sidebar">使用指令碼化解決方案來自動化 NetApp 產品與服務的部署與整合。</block>
 </blocks>
