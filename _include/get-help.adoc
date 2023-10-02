@@ -1,8 +1,21 @@
-= 使用自我支援選項
+= 取得雲端供應商檔案服務的支援
 :allow-uri-read: 
 
 
 NetApp以多種方式支援BlueXP及其雲端服務。我們全年無休提供豐富的免費自助支援選項、例如知識庫（KB）文章和社群論壇。您的支援註冊包括透過網路票證提供遠端技術支援。
+
+
+
+== 取得雲端供應商檔案服務的支援
+
+如需雲端供應商檔案服務、其基礎架構或任何使用服務的解決方案的相關技術支援、請參閱該產品的 BlueXP 文件中的「取得說明」。
+
+* link:https://docs.netapp.com/us-en/bluexp-fsx-ontap/start/concept-fsx-aws.html#getting-help["Amazon FSX for ONTAP Sf"^]
+* link:https://docs.netapp.com/us-en/bluexp-azure-netapp-files/concept-azure-netapp-files.html#getting-help["Azure NetApp Files"^]
+* link:https://docs.netapp.com/us-en/bluexp-cloud-volumes-service-gcp/concept-cvs-gcp.html#getting-help["適用於 Google Cloud Cloud Volumes Service"^]
+
+
+若要獲得 BlueXP 及其儲存解決方案與服務的專屬技術支援、請使用下列支援選項。
 
 
 

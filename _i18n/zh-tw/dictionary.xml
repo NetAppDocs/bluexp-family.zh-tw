@@ -121,7 +121,6 @@
   <block id="19874606c485ce682436c45308e50186" category="sidebar">使用System Manager和BlueXP的資料服務、從AFF BlueXP管理您的NetApp功能和FAS 功能。</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">開始之前</block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成後</block>
-  <block id="0375f4855be072c7d856a0233cc21de9" category="doc">支援雲端供應商解決方案</block>
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="doc">使用自我支援選項</block>
   <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">利用NetApp支援建立案例</block>
   <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">在「*資源*」頁面上、選擇「技術支援」下的其中一個可用選項：</block>
@@ -198,9 +197,7 @@
   <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">這是系統產生的ID、會對應至您的電子郵件。在「* nssn*管理*」頁面上、您可以從顯示電子郵件 <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 功能表。</block>
   <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">如果您需要重新整理登入認證憑證權杖、也可以在中使用*更新認證*選項 <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 功能表。</block>
   <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="0c7db2bd63c891adb2c0fa4527805d72" category="paragraph">您的 BlueXP 帳戶和個別 Cloud Volumes ONTAP 系統都需要註冊支援。</block>
   <block id="28164bf9e881ddc9e7ff74744bfce180" category="paragraph">註冊這兩種類型的序號、即可開啟支援服務單和自動建立個案。如下列所述、將 NetApp 支援網站 （ NSS ）帳戶新增至 BlueXP 即可完成登錄。</block>
-  <block id="e922b9aa0836a1d93e11cac0fe4c9004" category="paragraph">如需下列雲端供應商解決方案的技術支援、請參閱該產品 BlueXP 文件中的「取得說明」。</block>
   <block id="5a19febf1dcb23c10e8dcfde64ba764c" category="section-title">註冊您的 BlueXP 帳戶以取得 NetApp 支援</block>
   <block id="6bbc2ba432f59ab65ee3d8ac5a58336e" category="paragraph">若要註冊以取得支援並啟動支援授權、 BlueXP 帳戶中的一位使用者必須將 NetApp 支援網站 帳戶與其 BlueXP 登入建立關聯。您如何註冊NetApp支援取決於您是否已擁有NetApp 支援網站 一個NetApp（NSS）帳戶。</block>
   <block id="0c788a722f31f8f0cf36539ee04615cf" category="list-text">選取 * 新增 NSS 認證 * 、然後遵循 NetApp 支援網站 （ NSS ）驗證提示。</block>
@@ -253,4 +250,9 @@
   <block id="c7b1fe992423d57d0e492585ff631c02" category="sidebar">使用 Amazon FSX for ONTAP 上的 VMware Cloud 做為災難恢復站台、來保護內部部署的 VMware 工作負載。</block>
   <block id="d7a02621d52c29a3c5f7895e817cba5b" category="sidebar">自動化目錄</block>
   <block id="5d880ed9e8bc81eec72f5edb5332637d" category="sidebar">使用指令碼化解決方案來自動化 NetApp 產品與服務的部署與整合。</block>
+  <block id="ece19bab46695021f109a5e50f08bebe" category="paragraph">需要註冊支援、才能獲得 BlueXP 及其儲存解決方案與服務專屬的技術支援。也需要註冊支援、才能啟用 Cloud Volumes ONTAP 系統的重要工作流程。</block>
+  <block id="8a3d807608e632d188a288fc5f4aa7eb" category="paragraph">註冊支援並不會啟用雲端供應商檔案服務的 NetApp 支援。如需雲端供應商檔案服務、其基礎架構或任何使用服務的解決方案的相關技術支援、請參閱該產品的 BlueXP 文件中的「取得說明」。</block>
+  <block id="522cbb900314aeb84eb5a961c5f94672" category="doc">取得雲端供應商檔案服務的支援</block>
+  <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">如需雲端供應商檔案服務、其基礎架構或任何使用服務的解決方案的相關技術支援、請參閱該產品的 BlueXP 文件中的「取得說明」。</block>
+  <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">若要獲得 BlueXP 及其儲存解決方案與服務的專屬技術支援、請使用下列支援選項。</block>
 </blocks>
