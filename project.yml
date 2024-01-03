@@ -63,12 +63,12 @@ product-family:
     tags: all,storage,aws
   - title: API
     icon: "./media/icon-api.png"
-    url: "../bluexp-automation/index.html"
+    url: https://docs.netapp.com/us-en/bluexp-automation/index.html
     summary: 以程式設計方式管理雲端型資源。
     tags: all,api
   - title: 自動化目錄
     icon: "./media/icon-api.png"
-    url: "../netapp-automation/solutions/bac-overview.html"
+    url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
     summary: 使用指令碼化解決方案來自動化 NetApp 產品與服務的部署與整合。
     tags: all,governance
   - title: Azure Blob 儲存設備
