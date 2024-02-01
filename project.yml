@@ -37,11 +37,6 @@ product-family:
   - title: 儲存設備
     tags: storage
   tiles:
-  - title: 歡迎使用BlueXP
-    icon: "./media/icon-docs.png"
-    url: concept-overview.html
-    summary: 深入瞭解BlueXP的推出。
-    tags: all
   - title: 設定與管理
     icon: "./media/icon-admin.png"
     url: "../bluexp-setup-admin/index.html"
@@ -82,17 +77,17 @@ product-family:
     url: "../bluexp-azure-netapp-files/index.html"
     summary: 為核心業務應用程式提供高效能檔案儲存服務。
     tags: all,storage,azure
-  - title: 備份與還原（ Cloud Backup ）
+  - title: 備份與還原
     icon: "./media/icon-backup.png"
     url: "../bluexp-backup-recovery/index.html"
     summary: 備份及還原雲端和內部部署資料。
     tags: all,aws,azure,gcp,protection
-  - title: 分類（ Cloud Data Sense ）
+  - title: 分類
     icon: "./media/icon-data-sense.png"
     url: "../bluexp-classification/index.html"
     summary: 準備好應用程式資料和雲端環境的隱私保護。
     tags: all,governance,aws,azure,gcp
-  - title: 雲端運算（運算）
+  - title: 雲端作業
     icon: "./media/icon-compute.png"
     url: "../bluexp-cloud-ops/index.html"
     summary: 深入瞭解雲端運算支出、並找出可能的節約效益。
@@ -107,7 +102,7 @@ product-family:
     url: "../bluexp-cloud-volumes-service-gcp/index.html"
     summary: 安全、保護及加速您的檔案儲存。
     tags: all,storage,gcp
-  - title: 複製與同步（ Cloud Sync ）
+  - title: 複製與同步
     icon: "./media/icon-sync.png"
     url: "../bluexp-copy-sync/index.html"
     summary: 在內部部署與雲端資料儲存區之間同步資料。
@@ -137,7 +132,7 @@ product-family:
     url: "../bluexp-economic-efficiency/index.html"
     summary: 識別目前或預測容量不足的叢集、並實作資料分層或其他容量建議。
     tags: all,governance
-  - title: 邊緣快取（全域檔案快取）
+  - title: 邊緣快取
     icon: "./media/icon-cache.png"
     url: "../bluexp-edge-caching/index.html"
     summary: 為分散的工作團隊提供即時的全域檔案共用功能。
@@ -167,7 +162,7 @@ product-family:
     url: "../bluexp-operational-resiliency/index.html"
     summary: 實作自動化韌體和軟體組態風險修正、以維持 ONTAP 叢集的健全狀況。
     tags: all,health
-  - title: 補救（應用程式範本）
+  - title: 補救
     icon: "./media/icon-app-template.png"
     url: "../bluexp-remediation/index.html"
     summary: 自動化BlueXP中的行動、加速資源配置並免除手動工作。
@@ -187,7 +182,7 @@ product-family:
     url: "../active-iq/learn_BlueXP_sustainability.html"
     summary: 分析儲存系統的永續性。
     tags: all,governance
-  - title: 分層（雲端分層）
+  - title: 分層
     icon: "./media/icon-tiering.png"
     url: "../bluexp-tiering/index.html"
     summary: 將內部ONTAP 部署的NetApp儲存設備延伸至雲端。
