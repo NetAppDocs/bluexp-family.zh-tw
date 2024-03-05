@@ -149,6 +149,11 @@ product-family:
     url: "../bluexp-operational-resiliency/index.html"
     summary: 實作自動化韌體和軟體組態風險修正、以維持 ONTAP 叢集的健全狀況。
     tags: all,health
+  - title: 勒索軟體保護
+    icon: "./media/icon-ransomware.png"
+    url: "../bluexp-ransomware-protection/index.html"
+    summary: 偵測可能導致勒索軟體攻擊的異常狀況。保護及恢復工作負載。
+    tags: all,protection
   - title: 補救
     icon: "./media/icon-app-template.png"
     url: "../bluexp-remediation/index.html"
