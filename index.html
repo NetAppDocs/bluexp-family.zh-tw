@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+  <head class="at-element-marker">
+  <title>BlueXP文件 | NetApp Documentation</title>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1">
+  <meta http-equiv="language" content="en">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="og:title" content="BlueXP文件 | NetApp Documentation" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://docs.netapp.com/zh-tw/bluexp-family/index.html" />
+	<meta property="og:description" content="NetApp BlueXP 為您的組織提供單一控制面板、可在內部部署和雲端環境中建置、保護及管理資料。依產品區域瀏覽文件、或使用上方搜尋、在任何位置尋找BlueXP文件中的內容。" />
+  <meta property="og:image" content="https://docs.netapp.com/zh-tw/bluexp-family/images/logo-tophat-social.png" />
+  <meta property="og:image:alt" content="NetApp Logo" />
+  <meta name="format-detection" content="telephone=no">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="encoding" content="utf-8">
+  <meta http-equiv="nss-type" content="Product Documentation"/>
+  <meta http-equiv="nss-subtype" content="User Guide"/><meta name="description" content="NetApp BlueXP 為您的組織提供單一控制面板、可在內部部署和雲端環境中建置、保護及管理資料。依產品區域瀏覽文件、或使用上方搜尋、在任何位置尋找BlueXP文件中的內容。">
+  <meta name="keywords" content=" "><!-- Icons -->
+  <link rel="icon" href="/zh-tw/bluexp-family/images/favicon.ico" type="image/x-icon">
+
+  <!-- RSS Feed --><link rel="alternate" type="application/rss+xml" title="NetApp Documentation" href="/zh-tw/bluexp-family/feed.xml"><!-- CSS Definitions: NetApp CSS should be defined after generic css -->
+
+
+  <!-- Combined CSS -->
+  <link rel="stylesheet" type="text/css" href="/zh-tw/bluexp-family/css/ie-netappdocs.css">
+
+  
+  <link rel="stylesheet" href="/zh-tw/bluexp-family/css/ie-landing-page.css" type="text/css">
+  <link rel="stylesheet" href="/zh-tw/bluexp-family/css/ie-tabbed-blocks.css" type="text/css">
+  <!-- Canonical url -->
+  <link rel="canonical" href="https://docs.netapp.com/zh-tw/bluexp-family/" />
+  <link rel="alternate" hreflang="x-default" href="https://docs.netapp.com/us-en/bluexp-family/" />
+  <link rel="alternate" hreflang="zh-Hant" href="https://docs.netapp.com/zh-tw/bluexp-family/" />
+  <link rel="alternate" hreflang="en" href="https://docs.netapp.com/us-en/bluexp-family/" />
+  <link rel="alternate" hreflang="ja" href="https://docs.netapp.com/ja-jp/bluexp-family/" />
+  <link rel="alternate" hreflang="ko" href="https://docs.netapp.com/ko-kr/bluexp-family/" />
+  <link rel="alternate" hreflang="zh-Hans" href="https://docs.netapp.com/zh-cn/bluexp-family/" />
+  <link rel="alternate" hreflang="de" href="https://docs.netapp.com/de-de/bluexp-family/" />
+  <link rel="alternate" hreflang="es" href="https://docs.netapp.com/es-es/bluexp-family/" />
+  <link rel="alternate" hreflang="fr" href="https://docs.netapp.com/fr-fr/bluexp-family/" />
+  <link rel="alternate" hreflang="it" href="https://docs.netapp.com/it-it/bluexp-family/" />
+  <!-- Top level site integrations -->
+<script type="text/javascript" src="https://cdn.cookielaw.org/consent/72570c5c-fe30-465f-b0e0-b77f7fb4ae34/OtAutoBlock.js"></script>
+    <script type="text/javascript" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" charset="UTF-8" data-document-language="true" data-domain-script="72570c5c-fe30-465f-b0e0-b77f7fb4ae34"></script>
+    <script type="text/javascript">function OptanonWrapper() { }</script>
+    <script type="text/plain" class="optanon-category-C0002" src="https://assets.adobedtm.com/60287eadf1ee/c284da483c83/launch-e9ff3acac59f.min.js"></script>
+    <script class="optanon-category-C0001">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.setAttributeNode(d.createAttribute('data-ot-ignore'));j.setAttribute('class','optanon-category-C0001');j.async=true;
+        j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+'';f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-MD73T9M');</script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  
+  <script>
+    $(document).ready(function() {
+      const MASTHEAD_OFFSET = 65;
+      const SECTIONS = $("main h2, main h3");
+      // PAGE NAV - Init
+      if (SECTIONS.length == 0) {
+        // remove if there is no elements
+        /*
+        $("#ie-right-navbar").remove();
+        $("#ie-right-navbar-collapse").remove();
+        */
+      } else {
+        $(".page-nav-title").css('display', 'block');
+        for (var i = 0; i < SECTIONS.length; i++) {
+          var sectionId = $(SECTIONS[i]).attr('id');
+          var sectionName = $(SECTIONS[i]).text();
+          var subClass = $(SECTIONS[i]).is("h3") ? ' page-nav__sublink' : '';
+          $("#page-menu").append('<li class="page-nav-item"><a href="#' + sectionId + '" class="page-nav__link' + subClass + '">' + sectionName + '</a></li>');
+        }
+      }
+    });
+  </script>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+
+  <!-- Used for Product Family Page Sidebar Visibility --><link rel="stylesheet" href='/zh-tw/bluexp-family/css/ie-product-family.css' type="text/css">
+  <script src='/zh-tw/bluexp-family/js/ie-product-family.js'></script><!-- Used to import Promise for IE. Required for SearchKit -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.3.5/bluebird.min.js"></script><script src='/zh-tw/bluexp-family/js/na-search.js'></script><script src='/zh-tw/bluexp-family/js/ie-clouddocs.js'></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script><script>
+    /*
+      $(document).ready(function() {
+          $("#tg-sb-link").click(function() {
+              $("#tg-sb-sidebar").toggle();
+              $("#tg-sb-content").toggleClass('col-md-9');
+              $("#tg-sb-content").toggleClass('col-md-12');
+              $("#tg-sb-icon").toggleClass('fa-toggle-on');
+              $("#tg-sb-icon").toggleClass('fa-toggle-off');
+          });
+      });
+      */
+  </script>
+  <script src='/zh-tw/bluexp-family/js/custom-dropdown.js'></script>
+  <script src='/zh-tw/bluexp-family/js/FileSaver.min.js'></script>
+  <script src='/zh-tw/bluexp-family/js/jszip-utils.min.js'></script>
+  <script src='/zh-tw/bluexp-family/js/jszip.min.js'></script></head>
+
+
+  <body class role="document" data-flavor="">
+    <div class="skip-to-main">
+      <a href="#main" >Skip to main content</a>
+    </div><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MD73T9M"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div id="page" class="">
+      <div id="ie-phone-menu" class=""></div>
+      <div id="ie-content-wrap" class="">
+        <nav id="ie-new-header">
+    <ul>
+        <li id="ie-phone-menu-button">
+            <a href="#">
+                <image id="" src="/zh-tw/bluexp-family/images/hamburger.svg" alt="menu" />
+            </a>
+        </li>
+
+        <li>
+            <a href="https://www.netapp.com/tw">
+                <image id="ie-header-logo" src="/zh-tw/bluexp-family/images/netapp_logo.svg" alt="netapp" />
+            </a>
+        </li>
+        <li id="ie-header-docs">
+            <a href="https://www.netapp.com/support-and-training/documentation/">文件</a>
+        </li>
+
+        <!-- Empty container to push header left with or without lang selector -->
+        <li id="empty-container" style="margin-left: auto">
+        </li>
+        <!-- Start Language Selector --><li id="ie-language-dropdown">
+            <div id="language-dropdown" class="custom-dropdown custom-dropdown-lang">
+                <div class="custom-dropdown-select custom-dropdown-select-lang">
+                    <img src="/zh-tw/bluexp-family/images/language_white_24dp.svg" class="n-globe__icon" />
+                    <span class="lang-name">繁體中文</span>
+                    <img src="/zh-tw/bluexp-family/images/dropdown-arrow.svg" alt="" class="custom-icon chevrondown header invisible" />
+                    <img src="/zh-tw/bluexp-family/images/dropdown-arrow.svg" alt="" class="custom-icon chevronup header" />
+                    </button>
+                </div>
+
+                <ul class="custom-dropdown-menu"><li>
+                        <a href="https://docs.netapp.com/zh-tw/bluexp-family/index.html"
+                            target="_self"><span translate="no" class="notranslate">繁體中文</span></a>
+                    </li><li>
+                        <a href="https://docs.netapp.com/us-en/bluexp-family/index.html"
+                            target="_self"><span translate="no" class="notranslate">English</span></a>
+                    </li><li>
+                        <a href="https://docs.netapp.com/ja-jp/bluexp-family/index.html"
+                            target="_self"><span translate="no" class="notranslate">日本語</span></a>
+                    </li><li>
+                        <a href="https://docs.netapp.com/ko-kr/bluexp-family/index.html"
+                            target="_self"><span translate="no" class="notranslate">한국어</span></a>
+                    </li><li>
+                        <a href="https://docs.netapp.com/zh-cn/bluexp-family/index.html"
+                            target="_self"><span translate="no" class="notranslate">简体中文</span></a>
+                    </li><li>
+                        <a href="https://docs.netapp.com/de-de/bluexp-family/index.html"
+                            target="_self"><span translate="no" class="notranslate">Deutsch</span></a>
+                    </li><li>
+                        <a href="https://docs.netapp.com/es-es/bluexp-family/index.html"
+                            target="_self"><span translate="no" class="notranslate">Español</span></a>
+                    </li><li>
+                        <a href="https://docs.netapp.com/fr-fr/bluexp-family/index.html"
+                            target="_self"><span translate="no" class="notranslate">Français</span></a>
+                    </li><li>
+                        <a href="https://docs.netapp.com/it-it/bluexp-family/index.html"
+                            target="_self"><span translate="no" class="notranslate">Italiano</span></a>
+                    </li></ul>
+            </div>
+            </li>
+        <!-- End Language Selector -->
+
+
+        <li id="ie-allnetapp">
+            <div id="allnetapp-dropdown" class="custom-dropdown custom-dropdown-allnetapp">
+                <div class="custom-dropdown-select custom-dropdown-select-allnetapp">
+                    <img src="/zh-tw/bluexp-family/images/apps_white_24dp.svg" alt="" class="allnetapp-icon" />
+                    <span class="allnetapp-name">所有 NetApp</span>
+                    <img src="/zh-tw/bluexp-family/images/dropdown-arrow.svg" alt="" class="custom-icon chevrondown header invisible" />
+                    <img src="/zh-tw/bluexp-family/images/dropdown-arrow.svg" alt="" class="custom-icon chevronup header" />
+                    </button>
+                </div>
+
+                <ul class="custom-dropdown-menu allnetapp-dropdown">
+                    <li>
+                        <a href="https://bluexp.netapp.com/"
+                            target="_self"><span translate="no" class="notranslate">BlueXP</span></a>
+                    </li>
+                    <li>
+                        <a href="https://mysupport.netapp.com/site/"
+                            target="_self"><span translate="no" class="notranslate">支援</span></a>
+                    </li>
+                    <li>
+                        <a href="https://kb.netapp.com/"
+                            target="_self"><span translate="no" class="notranslate">知識庫</span></a>
+                    </li>
+                    <li>
+                        <a href="https://www.netapp.com/support-and-training/netapp-learning-services/"
+                            target="_self"><span translate="no" class="notranslate">訓練</span></a>
+                    </li>
+                </ul>
+            </div>
+
+        </li>
+
+    </ul>
+</nav>
+
+        <main id="n-main-content" class="n-main-content">
+          <div class="ie-main ">
+
+<div id="ie-new-sidebar-collapse" style="display: none">
+    <img id="sidebar-expand" class="ie-searchbox-icon" src="/zh-tw/bluexp-family/images/double_arrow.svg" alt="" />
+</div>
+<div id="ie-new-sidebar">
+    <div id="ie-product-identity-lockup">
+        <div id="sidebar-collapse" class="no-expand">
+            <img src="/zh-tw/bluexp-family/images/double_arrow.svg" alt="" />
+        </div>
+        <div id="ie-breadcrumb" class="">
+  <ul class="ie-breadcrumb">
+    <li class="">
+      <a href="https://docs.netapp.com">所有文件</a>
+    </li>
+    
+    
+    <li class="">
+      <a href="https://docs.netapp.com/us-en/cloud/">雲端文件</a>
+    </li>
+    
+
+    
+  </ul>
+  
+  <div class="ie-product-name" >
+    <!--<a href="/zh-tw/bluexp-family/">-->
+      BlueXP
+    <!--</a>-->
+  </div>
+</div>
+
+            
+
+        
+        
+
+<div id="ie-searchbox" class="ie-searchbox-sidebar ">
+    <img class="ie-searchbox-icon" src="/zh-tw/bluexp-family/images/loupe.svg" alt=""/>
+    <div id="react-search" 
+        data-search-html="/zh-tw/bluexp-family/search.html" 
+        data-type="widget"
+        data-placeholder="搜尋說明文件"
+        data-no-results-found="找不到 {query} 的結果"
+        data-did-you-mean="搜尋 {suggestion}。"
+        data-no-results-found-did-you-mean="找不到 {query} 的結果。您的意思是 {suggestion} 嗎？"
+        data-results-found="找到 {hitCount} 個結果"
+        data-error-message="發生錯誤。請再試一次。"
+        data-error-reset="重設搜尋"
+        data-sk-es-pf-indexes="" 
+        data-flavor="">
+    </div>
+</div>
+        
+    </div>
+    <div id="ie-new-toc"><div id="ie-product-family-filter">
+  <div id="ie-product-family-filter-title">依產品功能篩選</div>
+  <ul id="ie-product-family-links"><li class="active">
+          <a href="#" class="" data-tags="all">全部</a>
+        </li><li>
+          <a href="#" class="" data-tags="api">API</a>
+        </li><li>
+          <a href="#" class="" data-tags="admin">連接器與帳戶</a>
+        </li><li>
+          <a href="#" class="" data-tags="extension">擴充功能</a>
+        </li><li>
+          <a href="#" class="" data-tags="governance">治理</a>
+        </li><li>
+          <a href="#" class="" data-tags="health">健全狀況</a>
+        </li><li>
+          <a href="#" class="" data-tags="mobility">行動力</a>
+        </li><li>
+          <a href="#" class="" data-tags="protection">保護</a>
+        </li><li>
+          <a href="#" class="" data-tags="storage">儲存設備</a>
+        </li></ul>
+</div>
+    </div>
+</div>
+<script>
+
+    
+    let sidebarScrollTopPosition = 0;
+    $("#ie-new-toc").on("scroll", function () {
+        if (sidebarScrollTopPosition == 0) {
+            $.cookie("sidebarScroll", $("#ie-new-toc").scrollTop(), {
+                path: "/zh-tw/bluexp-family"
+            });
+        }
+
+        if ($("#ie-new-toc").scrollTop() > 0) {
+            $('#ie-product-identity-lockup').addClass('ie-addShadow');
+        } else {
+            $('#ie-product-identity-lockup').removeClass('ie-addShadow');
+        }
+    });
+
+    $(function () {
+        if ($.cookie("sidebarScroll")) {
+            $("#ie-new-toc").scrollTop($.cookie("sidebarScroll"));
+        }
+    });
+
+    function setSidebarBottom() {
+        const footerGap = PXinViewport($(".n-footer"));
+        document.getElementById("ie-new-sidebar").style.bottom = Math.max(0, footerGap) + "px";
+    }
+
+    window.onscroll = () => {
+        setSidebarBottom();
+    };
+
+    $("#sidebar-collapse").click(function (e) {
+        const sidebarWidth = $("#ie-new-sidebar").width() - $("#ie-new-sidebar-collapse").width();
+        e.preventDefault();
+        const width = $(".ie-content-pane").width();
+        const marginLeft = parseInt($(".ie-content-pane").css('marginLeft'));
+
+        if ($.cookie("sidebarScroll")) {
+            sidebarScrollTopPosition = $.cookie("sidebarScroll");
+        }
+
+        $("#ie-new-sidebar").animate({ width: 'toggle' }, 350, function () {
+            $("#ie-new-sidebar-collapse").show();
+            $("#ie-new-sidebar").removeClass("open")
+            $("#ie-new-sidebar").addClass("close")
+            $("#ie-new-sidebar").removeAttr("style")
+        });
+        $(".ie-content-pane").animate({ width: (width + sidebarWidth), marginLeft: (marginLeft - sidebarWidth) }, 350, function () {
+            resizeContent()
+        })
+
+    });
+    $("#sidebar-expand").click(function (e) {
+        const sidebarWidth = $("#ie-new-sidebar").width() - $("#ie-new-sidebar-collapse").width();
+        e.preventDefault();
+        const width = $(".ie-content-pane").width();
+        const marginLeft = parseInt($(".ie-content-pane").css('marginLeft'));
+
+        $("#ie-new-sidebar").animate({ width: 'toggle' }, 250, function () {
+            $('#ie-new-sidebar').css('display', 'flex');
+            $("#ie-new-sidebar-collapse").hide();
+            $("#ie-new-sidebar").removeClass("close")
+            $("#ie-new-sidebar").addClass("open")
+            setSidebarBottom();
+
+            if (sidebarScrollTopPosition != 0) {
+                $.cookie("sidebarScroll", sidebarScrollTopPosition, {
+                    path: "/zh-tw/bluexp-family"
+                })
+                $("#ie-new-toc").scrollTop(sidebarScrollTopPosition);
+                sidebarScrollTopPosition = 0;
+            }
+        });
+        $(".ie-content-pane").animate({ width: (width - sidebarWidth), 'marginLeft': (marginLeft + sidebarWidth) }, 250, function () {
+            resizeContent()
+        })
+    });
+    function resizeContent() {
+        const sidebarWidth = $("#ie-new-sidebar").width() - $("#ie-new-sidebar-collapse").width();
+        const rightNavbarVisible =  $("#ie-right-navbar").css('display') && $("#ie-right-navbar").css('display') != 'none';
+        const sidebarVisible = $("#ie-new-sidebar").css('display') != 'none';
+        const rightNavbarWidth = $("#ie-right-navbar").width();
+        const rightNavbarCollapseWidth = $("#ie-right-navbar-collapse").width();
+        const rightNavbarCollapseVisible = $("#ie-right-navbar-collapse").css('display') && $("#ie-right-navbar-collapse").css('display') != 'none';
+        
+        if (rightNavbarVisible && sidebarVisible) {
+            $(".ie-content-pane").width(`calc(100% - ${sidebarWidth + rightNavbarWidth}px)`)
+            $(".ie-content-pane").css('marginLeft', `${sidebarWidth}px`)
+        } else if (sidebarVisible) {
+            $(".ie-content-pane").css('marginLeft', `${sidebarWidth}px`)
+            if (rightNavbarCollapseVisible) {
+                $(".ie-content-pane").width(`calc(100% - ${sidebarWidth + rightNavbarCollapseWidth}px)`)
+            } else {
+                $(".ie-content-pane").width(`calc(100% - ${$("#ie-new-sidebar").width()}px)`)
+            }
+
+        } else if (rightNavbarVisible) {
+            $(".ie-content-pane").css('marginLeft', `${$("#ie-new-sidebar-collapse").width()}px`)
+            $(".ie-content-pane").width(`calc(100% - ${rightNavbarWidth}px)`)
+        } else {
+            $(".ie-content-pane").css('marginLeft', `${$("#ie-new-sidebar-collapse").width()}px`)
+            if (rightNavbarCollapseVisible) {
+                $(".ie-content-pane").width(`calc(100% - ${rightNavbarCollapseWidth}px)`);
+            } else {
+                $(".ie-content-pane").width(`calc(100% - ${$("#ie-new-sidebar-collapse").width()}px) `);
+            }
+            
+        }
+    }
+    $(window).on("resize load", function () {
+        setSidebarBottom();
+        resizeContent()
+    });
+
+
+</script>
+
+<!-- include product-family-sidebar.html -->
+    <div class="tile-container product-family">
+        <article class="page-content">
+            <!--  include utility.html  -->
+              <div class="ie-info-disclaimer">
+                <span>
+                  <div class="ie-info-disclaimer-container">
+                    <div class="ie-info-disclaimer-icon">
+                      <img src="/zh-tw/bluexp-family/images/notification-icons.svg" class="luci-icon" alt="" />
+                    </div>
+                    <div class="ie-info-disclaimer-content">
+                      <span> 本繁體中文版使用機器翻譯，譯文僅供參考，若與英文版本牴觸，應以英文版本為準。 </span>
+                    </div>
+                    <div style="clear:both;"></div>
+                  </div>
+                </span>
+              </div><div class="ie-component-detail-heading-wrap landing">
+                  <h1 class="ie-component-detail-heading">BlueXP文件</h1>
+                  
+          
+
+    
+
+              </div>
+              <section class="ie-section content-to-index">
+                  <p>NetApp BlueXP 為您的組織提供單一控制面板、可在內部部署和雲端環境中建置、保護及管理資料。依產品區域瀏覽文件、或使用上方搜尋、在任何位置尋找BlueXP文件中的內容。</p>
+              </section>
+              <div class="ie-content">
+<div id="selected-sidelink"><span>全部</span></div>
+    <div class="ie-layout-flex product-family-tile-container" data-ntap-layout="4"><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,admin">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-admin.png" alt="設定與管理"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-setup-admin/index.html'>設定與管理</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">瞭解如何開始使用BlueXP並管理Connectors、帳戶等。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-docs.png" alt="版本資訊"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-relnotes/index.html'>版本資訊</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">瞭解所有BlueXP的新功能。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,storage,aws">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-fsx.png" alt="Amazon FSX for NetApp ONTAP 產品"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-fsx-ontap/index.html'>Amazon FSX for NetApp ONTAP 產品</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">將ONTAP 完整的功能用作由AWS管理的原生服務。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,storage,aws">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-s3.png" alt="Amazon S3儲存設備"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-s3-storage/index.html'>Amazon S3儲存設備</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">探索及管理AWS帳戶中的Amazon S3儲存區。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,api">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-api.png" alt="API"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='https://docs.netapp.com/us-en/bluexp-automation/index.html'>API</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">以程式設計方式管理雲端型資源。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,governance">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-api.png" alt="自動化目錄"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html'>自動化目錄</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">使用指令碼化解決方案來自動化 NetApp 產品與服務的部署與整合。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,storage">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-azure-blob.png" alt="Azure Blob 儲存設備"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-blob-storage/index.html'>Azure Blob 儲存設備</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">探索並管理 Azure 訂閱中的 Azure Blob 儲存設備。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,storage,azure">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-anf.png" alt="Azure NetApp Files"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-azure-netapp-files/index.html'>Azure NetApp Files</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">為核心業務應用程式提供高效能檔案儲存服務。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,aws,azure,gcp,protection">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-backup.png" alt="備份與還原"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-backup-recovery/index.html'>備份與還原</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">備份及還原雲端和內部部署資料。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,governance,aws,azure,gcp">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-data-sense.png" alt="分類"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-classification/index.html'>分類</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">準備好應用程式資料和雲端環境的隱私保護。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,aws,extension">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-compute.png" alt="雲端作業"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-cloud-ops/index.html'>雲端作業</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">深入瞭解雲端運算支出、並找出可能的節約效益。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,storage,aws,azure,gcp">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-cvo.png" alt="Cloud Volumes ONTAP"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-cloud-volumes-ontap/index.html'>Cloud Volumes ONTAP</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">讓您的雲端儲存設備更經濟實惠、更聰明、更符合法規要求且更安全。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,storage,gcp">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-cvs.png" alt="適用於 Google Cloud Cloud Volumes Service"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-cloud-volumes-service-gcp/index.html'>適用於 Google Cloud Cloud Volumes Service</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">安全、保護及加速您的檔案儲存。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,aws,azure,gcp,mobility">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-sync.png" alt="複製與同步"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-copy-sync/index.html'>複製與同步</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">在內部部署與雲端資料儲存區之間同步資料。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,health">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-activeiq.png" alt="數位顧問（ Active IQ ）"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../active-iq/index.html'>數位顧問（ Active IQ ）</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">可據以行動的情報、達到最佳的儲存健全狀況。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,governance">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/digital-wallet.png" alt="數位錢包"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-digital-wallet/index.html'>數位錢包</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">管理及監控您的授權與訂閱。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,protection">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-disaster-recovery.png" alt="災難恢復"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-disaster-recovery/index.html'>災難恢復</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">使用 Amazon FSX for ONTAP 上的 VMware Cloud 做為災難恢復站台、來保護內部部署的 VMware 工作負載。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,storage">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-e-series.png" alt="E系列系統"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-e-series/index.html'>E系列系統</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">探索E系列系統、完整檢視混合式多雲端的資料。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,governance">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-economic-efficiency.png" alt="經濟效益"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-economic-efficiency/index.html'>經濟效益</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">識別目前或預測容量不足的叢集、並實作資料分層或其他容量建議。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,mobility,aws,azure,gcp">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-cache.png" alt="邊緣快取"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-edge-caching/index.html'>邊緣快取</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">為分散的工作團隊提供即時的全域檔案共用功能。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,storage">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-google-cloud-storage.png" alt="Google Cloud Storage"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-google-cloud-storage/index.html'>Google Cloud Storage</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">探索並管理 Google 帳戶中的雲端儲存庫貯體。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,storage,aws,azure">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-kubernetes.png" alt="Kubernetes叢集"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-kubernetes/index.html'>Kubernetes叢集</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">在混合雲中、對Kubernetes叢集進行進階資料管理。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,storage">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-reports.png" alt="移轉報告"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-reports/index.html'>移轉報告</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">識別儲存環境中的檔案數量、檔案系統樹狀結構的深度和廣度、最大檔案等。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,storage">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-onprem.png" alt="內部部署 ONTAP 的叢集"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-ontap-onprem/index.html'>內部部署 ONTAP 的叢集</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">使用System Manager和BlueXP的資料服務、從AFF BlueXP管理您的NetApp功能和FAS 功能。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,health">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-op-resiliency.png" alt="營運恢復能力"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-operational-resiliency/index.html'>營運恢復能力</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">實作自動化韌體和軟體組態風險修正、以維持 ONTAP 叢集的健全狀況。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,protection">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-ransomware.png" alt="勒索軟體保護"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-ransomware-protection/index.html'>勒索軟體保護</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">偵測可能導致勒索軟體攻擊的異常狀況。保護及恢復工作負載。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,health">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-app-template.png" alt="補救"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-remediation/index.html'>補救</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">自動化BlueXP中的行動、加速資源配置並免除手動工作。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,protection">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-replication.png" alt="複寫"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-replication/index.html'>複寫</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">在儲存系統之間複寫資料、以支援備份與災難恢復。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,storage">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-storagegrid.png" alt="StorageGRID"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-storagegrid/index.html'>StorageGRID</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">探索StorageGRID 及管理您的系統。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,governance">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-sustainability.png" alt="永續發展儀表板"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../active-iq/learn_BlueXP_sustainability.html'>永續發展儀表板</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">分析儲存系統的永續性。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,aws,azure,gcp,mobility">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-tiering.png" alt="分層"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-tiering/index.html'>分層</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">將內部ONTAP 部署的NetApp儲存設備延伸至雲端。</p>
+                </div>
+            </div>
+        </div><div class="ie-feature-block ie-feature-block__align--center ie-layout-flex__item ie-feature-block product-family-tile"
+            data-tags="all,mobility">
+            <div class="ie-feature-block__content">
+                <div class="ie-feature-block__header">
+                    <div class="ie-feature-block__image product-family-tile-icon"><img src="./media/icon-volume-caching.png" alt="Volume 快取"></div>
+                </div>
+                <div class="ie-feature-block__section">
+                    <a class="ie-feature-block__link product-family-tile-title"
+                        href='../bluexp-volume-caching/index.html'>Volume 快取</a>
+                    <p class="ie-feature-block__summary product-family-tile-summary">建立可寫入的快取磁碟區、以加速資料存取或卸載大量存取磁碟區的流量。</p>
+                </div>
+            </div>
+        </div></div>
+</div>
+</article>
+    </div>
+    <div class="page-nav-toolbar"></div>
+    <div style="clear:both"></div>
+</div>
+        </main>
+
+        <footer class="n-footer">
+  <div class="n-footer__bottom">
+    <div class="n-container">
+        <div class="n-footer__left">
+          <li class="n-footer__copyright-link">
+                    <a href="https://www.netapp.com/company/legal/copyright/">© 2024 NetApp, Inc.</a>
+          </li>
+        </div>
+        <div class="n-footer__center">
+          <ul class="n-footer__copyright-list">
+            <li class="n-footer__copyright-link">
+              <a href="https://www.netapp.com/company/legal/terms-of-use/">使用條款</a>
+            </li>
+            <li class="n-footer__copyright-link">
+              <a href="https://www.netapp.com/company/legal/privacy-policy/">隱私權政策</a>
+            </li>
+            <li class="n-footer__copyright-link">
+              <a href="https://www.netapp.com/company/legal/cookie-policy/">Cookie 政策</a>
+            </li>
+            <li class="n-footer__copyright-link">
+              <a class="ot-sdk-show-settings">Cookie 設定</a>
+            </li>
+          </ul>
+       </div>
+        <div class="n-footer__right">
+              <li class="n-footer__copyright-link">
+                <a target="_self" href="javascript:netapp_mailto()">傳送有關本網頁的意見反應</a>
+              </li>
+        </div>
+     </div>
+  </div>
+</footer>
+
+      </div><!-- Elasticsearch JS -->
+      <script type="text/javascript" src='/zh-tw/bluexp-family/js/bundle.js'></script>
+
+      <!-- Syntax Highlighting -->
+      <script type="text/javascript" src='/zh-tw/bluexp-family/js/prism.js'></script>
+      <script type="text/javascript" src='/zh-tw/bluexp-family/js/prism-curl.js'></script>
+    </div>
+    <script>
+      document.body.offsetWidth=1903;
+      cookieLaw = {}
+      cookieLaw.euCountry = "US";
+      cookieLaw.invoke = function(){return false;}
+    </script>
+    <script src='/zh-tw/bluexp-family/js/ie-tabbed-blocks.js'></script>
+    <script src='/zh-tw/bluexp-family/js/ie-sidebar.js'></script>
+  </body>
+
+</html>
