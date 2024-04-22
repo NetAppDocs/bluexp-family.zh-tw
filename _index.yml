@@ -154,11 +154,6 @@ product-family:
     url: "../bluexp-ransomware-protection/index.html"
     summary: 偵測可能導致勒索軟體攻擊的異常狀況。保護及恢復工作負載。
     tags: all,protection
-  - title: 補救
-    icon: "./media/icon-app-template.png"
-    url: "../bluexp-remediation/index.html"
-    summary: 自動化BlueXP中的行動、加速資源配置並免除手動工作。
-    tags: all,health
   - title: 複寫
     icon: "./media/icon-replication.png"
     url: "../bluexp-replication/index.html"
