@@ -119,25 +119,10 @@ product-family:
     url: "../bluexp-economic-efficiency/index.html"
     summary: 識別目前或預測容量不足的叢集、並實作資料分層或其他容量建議。
     tags: all,governance
-  - title: 邊緣快取
-    icon: "./media/icon-cache.png"
-    url: "../bluexp-edge-caching/index.html"
-    summary: 為分散的工作團隊提供即時的全域檔案共用功能。
-    tags: all,mobility,aws,azure,gcp
   - title: Google Cloud Storage
     icon: "./media/icon-google-cloud-storage.png"
     url: "../bluexp-google-cloud-storage/index.html"
     summary: 探索並管理 Google 帳戶中的雲端儲存庫貯體。
-    tags: all,storage
-  - title: Kubernetes叢集
-    icon: "./media/icon-kubernetes.png"
-    url: "../bluexp-kubernetes/index.html"
-    summary: 在混合雲中、對Kubernetes叢集進行進階資料管理。
-    tags: all,storage,aws,azure
-  - title: 移轉報告
-    icon: "./media/icon-reports.png"
-    url: "../bluexp-reports/index.html"
-    summary: 識別儲存環境中的檔案數量、檔案系統樹狀結構的深度和廣度、最大檔案等。
     tags: all,storage
   - title: 內部部署 ONTAP 的叢集
     icon: "./media/icon-onprem.png"
