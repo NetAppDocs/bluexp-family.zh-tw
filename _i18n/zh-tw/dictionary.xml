@@ -27,9 +27,6 @@
   <block id="b0cee72642f5457a71ddd0b49efb6d93" category="sidebar">適用於 Google Cloud Cloud Volumes Service</block>
   <block id="862d06f5b0779c31053bcadc07e8028b" category="sidebar">安全、保護及加速您的檔案儲存。</block>
   <block id="a17d9dd4943af64ba04db4529621baf0" category="sidebar">深入瞭解雲端運算支出、並找出可能的節約效益。</block>
-  <block id="20fa9c1bc12bf7468e5d341fc1e54b7f" category="sidebar">為分散的工作團隊提供即時的全域檔案共用功能。</block>
-  <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Kubernetes叢集</block>
-  <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">在混合雲中、對Kubernetes叢集進行進階資料管理。</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">複寫</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">在儲存系統之間複寫資料、以支援備份與災難恢復。</block>
   <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">除了上述的自我支援選項、您也可以在啟動支援之後、與NetApp支援專家合作解決任何問題。</block>
@@ -96,7 +93,6 @@
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">儲存設備</block>
   <block id="679d45f8d9939047ac9efb03e95c425c" category="sidebar">瞭解如何開始使用BlueXP並管理Connectors、帳戶等。</block>
   <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">瞭解所有BlueXP的新功能。</block>
-  <block id="9b125025fd2aeab175107728e40c19f1" category="sidebar">自動化BlueXP中的行動、加速資源配置並免除手動工作。</block>
   <block id="19874606c485ce682436c45308e50186" category="sidebar">使用System Manager和BlueXP的資料服務、從AFF BlueXP管理您的NetApp功能和FAS 功能。</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">開始之前</block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成後</block>
@@ -182,8 +178,6 @@
   <block id="e1d2e1a634647fd631081bc4f6f8e523" category="list-text">若要使用 * 建立案例 * 功能、您必須先將 NetApp 支援網站 認證與 BlueXP 登入建立關聯。<block ref="2a0d8b66ca9e99d023b48cf25f40fb12" category="inline-link-rx"></block>。</block>
   <block id="e49aa971c20ec071f1b5bbc3c7266769" category="list-text">如果您要為具有序號的 ONTAP 系統開啟案例、則您的 NSS 帳戶必須與該系統的序號相關聯。</block>
   <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">此錯誤可能表示、與該帳戶相關聯的NSS帳戶及記錄公司與BlueXP帳戶序號的記錄公司不同（例如960xxxx)或工作環境序號。您可以使用下列其中一個選項尋求協助：</block>
-  <block id="ac7b3cf10ea08c788a374e0291742517" category="sidebar">移轉報告</block>
-  <block id="724a3079d3074b0468d00facd32bb57e" category="sidebar">識別儲存環境中的檔案數量、檔案系統樹狀結構的深度和廣度、最大檔案等。</block>
   <block id="ff45d71e69fb5930de79de7c94326d7b" category="sidebar">Volume 快取</block>
   <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">建立可寫入的快取磁碟區、以加速資料存取或卸載大量存取磁碟區的流量。</block>
   <block id="2b3e8f910d66604cd77f93b333670468" category="sidebar">Azure Blob 儲存設備</block>
@@ -222,9 +216,9 @@
   <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="sidebar">分類</block>
   <block id="5b942e8f71976a7f4120006aa3ac54cc" category="sidebar">雲端作業</block>
   <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">複製與同步</block>
-  <block id="ba695b3cf8b635f89946173735838948" category="sidebar">邊緣快取</block>
-  <block id="282baca6aef56652f503adce6afa9f07" category="sidebar">補救</block>
   <block id="337c62c6b6eb7319bae58701105e889c" category="sidebar">分層</block>
   <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">勒索軟體保護</block>
   <block id="a8dd42d088a97f32bf9a4c69abc2517a" category="sidebar">偵測可能導致勒索軟體攻擊的異常狀況。保護及恢復工作負載。</block>
+  <block id="5009e1070e5138d1308165bc75e5706b" category="sidebar">軟體更新</block>
+  <block id="e5f69c6478276f31149c942722646515" category="sidebar">自動化 ONTAP 升級的評估、規劃及執行。</block>
 </blocks>

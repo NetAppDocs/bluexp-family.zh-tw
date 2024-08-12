@@ -144,6 +144,11 @@ product-family:
     url: "../bluexp-replication/index.html"
     summary: 在儲存系統之間複寫資料、以支援備份與災難恢復。
     tags: all,protection
+  - title: 軟體更新
+    icon: "./media/icon-software-updates.png"
+    url: "../bluexp-software-updates/index.html"
+    summary: 自動化 ONTAP 升級的評估、規劃及執行。
+    tags: all,health
   - title: StorageGRID
     icon: "./media/icon-storagegrid.png"
     url: "../bluexp-storagegrid/index.html"
