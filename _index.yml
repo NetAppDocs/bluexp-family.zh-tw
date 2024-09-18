@@ -50,7 +50,7 @@ product-family:
     summary: 以程式設計方式管理雲端型資源。
     tags: all,api
   - title: 自動化目錄
-    icon: "./media/icon-api.png"
+    icon: "./media/icon-automation.png"
     url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
     summary: 使用指令碼化解決方案來自動化 NetApp 產品與服務的部署與整合。
     tags: all,governance
@@ -100,7 +100,7 @@ product-family:
     tags: all,health
     summary: 可據以行動的情報、達到最佳的儲存健全狀況。
   - title: 數位錢包
-    icon: "./media/digital-wallet.png"
+    icon: "./media/icon-digital-wallet.png"
     url: "../bluexp-digital-wallet/index.html"
     tags: all,governance
     summary: 管理及監控您的授權與訂閱。
