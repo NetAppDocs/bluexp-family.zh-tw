@@ -9,14 +9,16 @@ product-family:
     class: active
   - title: API
     tags: api
-  - title: 連接器和 IAM
-    tags: admin
+  - title: 連接器
+    tags: connectors
   - title: 擴充功能
     tags: extension
   - title: 治理
     tags: governance
   - title: 健全狀況
     tags: health
+  - title: 身分識別與存取管理
+    tags: iam
   - title: 行動力
     tags: mobility
   - title: 監控
@@ -30,7 +32,7 @@ product-family:
     icon: "./media/icon-admin.png"
     url: "../bluexp-setup-admin/index.html"
     summary: 瞭解如何開始使用 BlueXP  並管理身分識別與存取管理、連接器等。
-    tags: all,admin
+    tags: all,connectors,iam
   - title: 版本資訊
     icon: "./media/icon-docs.png"
     url: "../bluexp-relnotes/index.html"
