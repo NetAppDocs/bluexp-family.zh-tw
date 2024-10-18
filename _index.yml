@@ -136,7 +136,7 @@ product-family:
   - title: 內部部署 ONTAP 的叢集
     icon: "./media/icon-onprem.png"
     url: "../bluexp-ontap-onprem/index.html"
-    summary: 使用System Manager和BlueXP的資料服務、從AFF BlueXP管理您的NetApp功能和FAS 功能。
+    summary: 使用系統管理員和 BlueXP  的資料服務、從 BlueXP  管理內部部署的 ONTAP 叢集。
     tags: all,storage
   - title: 營運恢復能力
     icon: "./media/icon-op-resiliency.png"

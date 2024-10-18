@@ -88,7 +88,6 @@
   <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">保護</block>
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">儲存設備</block>
   <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">瞭解所有BlueXP的新功能。</block>
-  <block id="19874606c485ce682436c45308e50186" category="sidebar">使用System Manager和BlueXP的資料服務、從AFF BlueXP管理您的NetApp功能和FAS 功能。</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">開始之前</block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成後</block>
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="doc">使用自我支援選項</block>
@@ -225,4 +224,5 @@
   <block id="2d5c8aeda2ab373d4a288e3bb0e951b0" category="sidebar">檢視 ONTAP 環境中與容量、可用度、效能、保護和安全性相關的問題。</block>
   <block id="fe4a785cf549e843e958f443c4baf0fe" category="sidebar">連接器</block>
   <block id="22bdd8c71cc34511ea88881e20f7ca21" category="sidebar">身分識別與存取管理</block>
+  <block id="795fd87bfd8c421238aba4220620e3bd" category="sidebar">使用系統管理員和 BlueXP  的資料服務、從 BlueXP  管理內部部署的 ONTAP 叢集。</block>
 </blocks>
