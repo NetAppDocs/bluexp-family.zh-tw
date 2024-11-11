@@ -27,6 +27,8 @@ product-family:
     tags: protection
   - title: 儲存設備
     tags: storage
+  - title: 工作負載
+    tags: workloads
   tiles:
   - title: 設定與管理
     icon: "./media/icon-admin.png"
@@ -178,3 +180,8 @@ product-family:
     url: "../bluexp-volume-caching/index.html"
     summary: 建立可寫入的快取磁碟區、以加速資料存取或卸載大量存取磁碟區的流量。
     tags: all,mobility
+  - title: 工作負載
+    icon: "./media/icon-workloads.png"
+    url: "../workload-family"
+    summary: 使用 Amazon FSX for NetApp ONTAP 設計，設定及操作關鍵工作負載。
+    tags: all,workloads

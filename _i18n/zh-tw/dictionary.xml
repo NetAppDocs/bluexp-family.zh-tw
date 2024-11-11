@@ -225,4 +225,6 @@
   <block id="fe4a785cf549e843e958f443c4baf0fe" category="sidebar">連接器</block>
   <block id="22bdd8c71cc34511ea88881e20f7ca21" category="sidebar">身分識別與存取管理</block>
   <block id="795fd87bfd8c421238aba4220620e3bd" category="sidebar">使用系統管理員和 BlueXP  的資料服務、從 BlueXP  管理內部部署的 ONTAP 叢集。</block>
+  <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">工作負載</block>
+  <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">使用 Amazon FSX for NetApp ONTAP 設計，設定及操作關鍵工作負載。</block>
 </blocks>
