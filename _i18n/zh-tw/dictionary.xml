@@ -16,7 +16,6 @@
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">以程式設計方式管理雲端型資源。</block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="sidebar">Azure NetApp Files</block>
-  <block id="7f0915fd413dcc718e35e39d644d92ac" category="sidebar">為核心業務應用程式提供高效能檔案儲存服務。</block>
   <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">備份及還原雲端和內部部署資料。</block>
   <block id="2090f2d846793f153b9266c648b079ef" category="sidebar">準備好應用程式資料和雲端環境的隱私保護。</block>
   <block id="9f47c7f98e6626074067a711fc1863ea" category="sidebar">在內部部署與雲端資料儲存區之間同步資料。</block>
@@ -25,7 +24,6 @@
   <block id="1264ff6a809549b27ab6285b6ab793f2" category="sidebar">讓您的雲端儲存設備更經濟實惠、更聰明、更符合法規要求且更安全。</block>
   <block id="b0cee72642f5457a71ddd0b49efb6d93" category="sidebar">適用於 Google Cloud Cloud Volumes Service</block>
   <block id="862d06f5b0779c31053bcadc07e8028b" category="sidebar">安全、保護及加速您的檔案儲存。</block>
-  <block id="a17d9dd4943af64ba04db4529621baf0" category="sidebar">深入瞭解雲端運算支出、並找出可能的節約效益。</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">複寫</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">在儲存系統之間複寫資料、以支援備份與災難恢復。</block>
   <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">除了上述的自我支援選項、您也可以在啟動支援之後、與NetApp支援專家合作解決任何問題。</block>
@@ -201,7 +199,6 @@
   <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">NetApp BlueXP 為您的組織提供單一控制面板、可在內部部署和雲端環境中建置、保護及管理資料。依產品區域瀏覽文件、或使用上方搜尋、在任何位置尋找BlueXP文件中的內容。</block>
   <block id="be062cdcabbb3055334e8f19b4bdf378" category="sidebar">備份與還原</block>
   <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="sidebar">分類</block>
-  <block id="5b942e8f71976a7f4120006aa3ac54cc" category="sidebar">雲端作業</block>
   <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">複製與同步</block>
   <block id="337c62c6b6eb7319bae58701105e889c" category="sidebar">分層</block>
   <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">勒索軟體保護</block>
@@ -227,4 +224,5 @@
   <block id="795fd87bfd8c421238aba4220620e3bd" category="sidebar">使用系統管理員和 BlueXP  的資料服務、從 BlueXP  管理內部部署的 ONTAP 叢集。</block>
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">工作負載</block>
   <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">使用 Amazon FSX for NetApp ONTAP 設計，設定及操作關鍵工作負載。</block>
+  <block id="6dcd21898198aef6fd1b4c762e770d69" category="sidebar">Azure 中適用於核心業務應用程式的高效能檔案儲存服務。</block>
 </blocks>
