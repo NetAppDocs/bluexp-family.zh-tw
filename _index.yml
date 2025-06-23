@@ -1,8 +1,8 @@
 ---
 product-family:
   title: BlueXP文件
-  lead: NetApp BlueXP 為您的組織提供單一控制面板、可在內部部署和雲端環境中建置、保護及管理資料。依產品區域瀏覽文件、或使用上方搜尋、在任何位置尋找BlueXP文件中的內容。
-  summary: NetApp BlueXP 為您的組織提供單一控制面板、可在內部部署和雲端環境中建置、保護及管理資料。依產品區域瀏覽文件、或使用上方搜尋、在任何位置尋找BlueXP文件中的內容。
+  lead: NetApp BlueXP 為您的組織提供單一控制面板、可在內部部署和雲端環境中建置、保護及管理資料。依產品領域瀏覽文件或使用上面的搜尋來尋找內容。
+  summary: NetApp BlueXP 為您的組織提供單一控制面板、可在內部部署和雲端環境中建置、保護及管理資料。依產品領域瀏覽文件或使用上面的搜尋來尋找內容。
   sidebarlinks:
   - title: 全部
     tags: all
@@ -11,8 +11,6 @@ product-family:
     tags: api
   - title: 連接器
     tags: connectors
-  - title: 擴充功能
-    tags: extension
   - title: 治理
     tags: governance
   - title: 健全狀況
@@ -129,6 +127,11 @@ product-family:
     icon: "./media/icon-google-cloud-storage.png"
     url: "../bluexp-google-cloud-storage/index.html"
     summary: 探索並管理 Google 帳戶中的雲端儲存庫貯體。
+    tags: all,storage
+  - title: 基礎概念
+    icon: "./media/icon-keystone.png"
+    url: "../keystone-staas/index.html"
+    summary: 從 BlueXP 存取和管理您的 Keystone 訂閱。
     tags: all,storage
   - title: 內部部署 ONTAP 的叢集
     icon: "./media/icon-onprem.png"

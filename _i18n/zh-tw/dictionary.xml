@@ -79,7 +79,6 @@
   <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">從「Support Registration（支援註冊）」頁面找到您的帳戶ID序號。</block>
   <block id="50a1dc01b7312307c34a888071586955" category="list-text">複製上述步驟2的帳戶序號、完成安全性檢查、然後確認您已閱讀NetApp的全球資料隱私權政策。</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">所有BlueXP文件</block>
-  <block id="5e2f5f3c24ae8c6ab3eca618826b0e23" category="sidebar">擴充功能</block>
   <block id="5a935787d6f091fc760443ab4c491465" category="sidebar">治理</block>
   <block id="605669cab962bf944d99ce89cf9e58d9" category="sidebar">健全狀況</block>
   <block id="340a76e3aef8e862f5fd79411261b297" category="sidebar">行動力</block>
@@ -196,7 +195,6 @@
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">如需雲端供應商檔案服務、其基礎架構或任何使用服務的解決方案的相關技術支援、請參閱該產品的 BlueXP 文件中的「取得說明」。</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">若要獲得 BlueXP 及其儲存解決方案與服務的專屬技術支援、請使用下列支援選項。</block>
   <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp 使用 Microsoft Entra ID 做為身分識別提供者、提供專為支援與授權所設計的驗證服務。</block>
-  <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">NetApp BlueXP 為您的組織提供單一控制面板、可在內部部署和雲端環境中建置、保護及管理資料。依產品區域瀏覽文件、或使用上方搜尋、在任何位置尋找BlueXP文件中的內容。</block>
   <block id="be062cdcabbb3055334e8f19b4bdf378" category="sidebar">備份與還原</block>
   <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="sidebar">分類</block>
   <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">複製與同步</block>
@@ -225,4 +223,7 @@
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">工作負載</block>
   <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">使用 Amazon FSX for NetApp ONTAP 設計，設定及操作關鍵工作負載。</block>
   <block id="6dcd21898198aef6fd1b4c762e770d69" category="sidebar">Azure 中適用於核心業務應用程式的高效能檔案儲存服務。</block>
+  <block id="61c23fb0066e4005db4fe5ccd0835180" category="sidebar">NetApp BlueXP 為您的組織提供單一控制面板、可在內部部署和雲端環境中建置、保護及管理資料。依產品領域瀏覽文件或使用上面的搜尋來尋找內容。</block>
+  <block id="1ce2096c300f78bbb8389ca2603e6dd9" category="sidebar">基礎概念</block>
+  <block id="70a67804758eee026e9f460e64b2c1d7" category="sidebar">從 BlueXP 存取和管理您的 Keystone 訂閱。</block>
 </blocks>
