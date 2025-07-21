@@ -226,4 +226,5 @@
   <block id="61c23fb0066e4005db4fe5ccd0835180" category="sidebar">NetApp BlueXP 為您的組織提供單一控制面板、可在內部部署和雲端環境中建置、保護及管理資料。依產品領域瀏覽文件或使用上面的搜尋來尋找內容。</block>
   <block id="1ce2096c300f78bbb8389ca2603e6dd9" category="sidebar">基礎概念</block>
   <block id="70a67804758eee026e9f460e64b2c1d7" category="sidebar">從 BlueXP 存取和管理您的 Keystone 訂閱。</block>
+  <block id="1215f8190533dfdf63d2224a6d88266f" category="sidebar">Google Cloud NetApp Volumes</block>
 </blocks>
