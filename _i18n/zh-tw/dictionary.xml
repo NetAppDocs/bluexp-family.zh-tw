@@ -16,7 +16,6 @@
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">以程式設計方式管理雲端型資源。</block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="sidebar">Azure NetApp Files</block>
-  <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">備份及還原雲端和內部部署資料。</block>
   <block id="2090f2d846793f153b9266c648b079ef" category="sidebar">準備好應用程式資料和雲端環境的隱私保護。</block>
   <block id="9f47c7f98e6626074067a711fc1863ea" category="sidebar">在內部部署與雲端資料儲存區之間同步資料。</block>
   <block id="c6844dc3fe4e51f03d9c9209b1f58fc4" category="sidebar">將內部ONTAP 部署的NetApp儲存設備延伸至雲端。</block>
@@ -122,8 +121,6 @@
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">* 更新案例附註 * ：提供問題的其他詳細資料、或選擇 * 上傳檔案 * 最多附加五個檔案。</block>
   <block id="723ffd15eb7b4453afd0fa0af42c04c3" category="sidebar">經濟效益</block>
   <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">識別目前或預測容量不足的叢集、並實作資料分層或其他容量建議。</block>
-  <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">營運恢復能力</block>
-  <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">實作自動化韌體和軟體組態風險修正、以維持 ONTAP 叢集的健全狀況。</block>
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">內部部署 ONTAP 的叢集</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">設定與管理</block>
@@ -226,4 +223,5 @@
   <block id="bbbc9b55f08bfe80f146b5207bdb7728" category="paragraph">NetApp以多種方式為BlueXP及其雲端服務提供支援。我們提供全天候 (24/7) 的大量免費自助支援選項，例如知識庫 (KB) 文章和社群論壇。您的支援註冊包含透過網路工單取得的遠端技術支援。</block>
   <block id="759d32287efdf88cd8ac71dccc0ecf8d" category="inline-image-macro">螢幕截圖顯示了帳戶序號、綠色複選框和文字「已註冊支援」。</block>
   <block id="4c441b388bebcddf8c08fb782095b864" category="paragraph"><block ref="4c441b388bebcddf8c08fb782095b864" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4102ee4dc04d405e046bf0c00b9f15a7" category="sidebar">備份和還原雲端和本地資料。</block>
 </blocks>

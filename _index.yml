@@ -76,7 +76,7 @@ product-family:
   - title: 備份與還原
     icon: "./media/icon-backup.png"
     url: "../bluexp-backup-recovery/index.html"
-    summary: 備份及還原雲端和內部部署資料。
+    summary: 備份和還原雲端和本地資料。
     tags: all,aws,azure,gcp,protection
   - title: 分類
     icon: "./media/icon-data-sense.png"
@@ -138,11 +138,6 @@ product-family:
     url: "../bluexp-ontap-onprem/index.html"
     summary: 使用系統管理員和 BlueXP  的資料服務、從 BlueXP  管理內部部署的 ONTAP 叢集。
     tags: all,storage
-  - title: 營運恢復能力
-    icon: "./media/icon-op-resiliency.png"
-    url: "../bluexp-operational-resiliency/index.html"
-    summary: 實作自動化韌體和軟體組態風險修正、以維持 ONTAP 叢集的健全狀況。
-    tags: all,health
   - title: 勒索軟體保護
     icon: "./media/icon-ransomware.png"
     url: "../bluexp-ransomware-protection/index.html"
